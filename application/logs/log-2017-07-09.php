@@ -1,0 +1,577 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2017-07-09 00:05:14 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-07-09 00:16:59 --> 404 Page Not Found --> apple-touch-icon-120x120-precomposed.png
+ERROR - 2017-07-09 00:17:00 --> 404 Page Not Found --> apple-touch-icon-120x120.png
+ERROR - 2017-07-09 00:17:00 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 00:17:00 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 00:17:01 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 00:17:01 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 00:17:01 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2017-07-09 00:17:02 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2017-07-09 00:17:02 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 00:17:02 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 00:17:35 --> 404 Page Not Found --> apple-touch-icon-120x120-precomposed.png
+ERROR - 2017-07-09 00:17:35 --> 404 Page Not Found --> apple-touch-icon-120x120.png
+ERROR - 2017-07-09 00:17:35 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 00:17:35 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 00:17:36 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 00:17:36 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 00:17:36 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2017-07-09 00:17:37 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2017-07-09 00:17:37 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 00:17:37 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 00:34:46 --> 404 Page Not Found --> apple-touch-icon-120x120-precomposed.png
+ERROR - 2017-07-09 00:34:47 --> 404 Page Not Found --> apple-touch-icon-120x120.png
+ERROR - 2017-07-09 00:34:49 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 00:34:49 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 00:34:50 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 00:34:50 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 00:34:50 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2017-07-09 00:34:51 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2017-07-09 00:34:51 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 00:34:51 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 00:36:28 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-07-09 00:45:54 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-07-09 00:51:01 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 00:51:02 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 01:15:28 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-07-09 01:21:31 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-07-09 01:33:06 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-07-09 02:07:04 --> 404 Page Not Found --> apple-touch-icon-120x120-precomposed.png
+ERROR - 2017-07-09 02:07:04 --> 404 Page Not Found --> apple-touch-icon-120x120.png
+ERROR - 2017-07-09 02:07:04 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2017-07-09 02:07:04 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2017-07-09 02:07:04 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 02:07:04 --> 404 Page Not Found --> apple-touch-icon-120x120-precomposed.png
+ERROR - 2017-07-09 02:07:05 --> 404 Page Not Found --> apple-touch-icon-120x120.png
+ERROR - 2017-07-09 02:07:05 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2017-07-09 02:07:05 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2017-07-09 02:07:05 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 03:14:46 --> 404 Page Not Found --> apple-touch-icon-120x120-precomposed.png
+ERROR - 2017-07-09 03:14:46 --> 404 Page Not Found --> apple-touch-icon-120x120.png
+ERROR - 2017-07-09 03:14:46 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 03:14:47 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 03:14:47 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 03:14:47 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 03:14:47 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2017-07-09 03:14:48 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2017-07-09 03:14:48 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 03:14:49 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 03:18:18 --> 404 Page Not Found --> googlef76b3c9f30632d88.html
+ERROR - 2017-07-09 03:22:29 --> 404 Page Not Found --> apple-touch-icon-120x120-precomposed.png
+ERROR - 2017-07-09 03:22:29 --> 404 Page Not Found --> apple-touch-icon-120x120.png
+ERROR - 2017-07-09 03:22:30 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 03:22:30 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 03:22:30 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 03:22:31 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 03:22:31 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2017-07-09 03:22:31 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2017-07-09 03:22:32 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 03:22:32 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 03:28:35 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-07-09 03:39:12 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 03:44:41 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-07-09 03:48:54 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 03:49:49 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 03:54:28 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 04:31:23 --> 404 Page Not Found --> xmlrpc.php
+ERROR - 2017-07-09 04:31:24 --> 404 Page Not Found --> blog
+ERROR - 2017-07-09 04:31:24 --> 404 Page Not Found --> blog
+ERROR - 2017-07-09 04:31:24 --> 404 Page Not Found --> wordpress
+ERROR - 2017-07-09 04:31:25 --> 404 Page Not Found --> wp
+ERROR - 2017-07-09 04:31:26 --> 404 Page Not Found --> administrator
+ERROR - 2017-07-09 04:31:26 --> 404 Page Not Found --> blog
+ERROR - 2017-07-09 04:31:26 --> 404 Page Not Found --> blog
+ERROR - 2017-07-09 04:31:27 --> 404 Page Not Found --> joomla
+ERROR - 2017-07-09 04:31:27 --> 404 Page Not Found --> joomla
+ERROR - 2017-07-09 04:48:39 --> 404 Page Not Found --> apple-touch-icon-120x120-precomposed.png
+ERROR - 2017-07-09 04:48:39 --> 404 Page Not Found --> apple-touch-icon-120x120.png
+ERROR - 2017-07-09 04:48:39 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2017-07-09 04:48:39 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2017-07-09 04:48:39 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 04:48:39 --> 404 Page Not Found --> apple-touch-icon-120x120-precomposed.png
+ERROR - 2017-07-09 04:48:39 --> 404 Page Not Found --> apple-touch-icon-120x120.png
+ERROR - 2017-07-09 04:48:39 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2017-07-09 04:48:39 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2017-07-09 04:48:39 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 05:19:54 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 05:26:18 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-07-09 05:33:09 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-07-09 05:39:56 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 05:39:57 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 05:55:09 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 05:55:51 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-07-09 06:16:08 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 06:26:21 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 06:52:50 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-07-09 07:00:34 --> 404 Page Not Found --> fonts.googleapis.com
+ERROR - 2017-07-09 07:13:22 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 07:39:22 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-07-09 07:40:27 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 07:44:42 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 08:06:36 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 08:06:37 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 08:07:40 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 08:21:23 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 08:21:25 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 08:26:16 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 08:26:17 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 08:27:07 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 08:27:08 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 08:27:08 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 08:35:33 --> 404 Page Not Found --> apple-touch-icon-120x120-precomposed.png
+ERROR - 2017-07-09 08:35:34 --> 404 Page Not Found --> apple-touch-icon-120x120.png
+ERROR - 2017-07-09 08:35:34 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2017-07-09 08:35:34 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2017-07-09 08:35:34 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 08:35:34 --> 404 Page Not Found --> apple-touch-icon-120x120-precomposed.png
+ERROR - 2017-07-09 08:35:34 --> 404 Page Not Found --> apple-touch-icon-120x120.png
+ERROR - 2017-07-09 08:35:35 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2017-07-09 08:35:35 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2017-07-09 08:35:35 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 08:47:35 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 08:49:24 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 08:58:49 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-07-09 09:02:44 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 09:07:17 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-07-09 09:08:33 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-07-09 09:11:46 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 09:13:22 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 09:17:47 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-07-09 09:26:38 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 09:32:30 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-07-09 09:42:04 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 09:53:01 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 10:19:29 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 10:19:56 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-07-09 10:22:15 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 10:23:36 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 10:35:01 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 10:37:49 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 10:37:49 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 10:48:19 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 10:48:48 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 10:50:01 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 10:50:15 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 11:00:28 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 11:15:59 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 11:15:59 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 11:15:59 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 11:15:59 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 11:16:00 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 11:16:00 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 11:20:07 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 11:20:39 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 11:20:50 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 11:21:48 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 11:42:14 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 11:54:47 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 12:08:05 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-07-09 12:11:58 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 12:16:10 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-07-09 12:20:34 --> 404 Page Not Found --> apple-touch-icon-120x120-precomposed.png
+ERROR - 2017-07-09 12:20:34 --> 404 Page Not Found --> apple-touch-icon-120x120.png
+ERROR - 2017-07-09 12:20:34 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2017-07-09 12:20:34 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2017-07-09 12:20:34 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 12:20:34 --> 404 Page Not Found --> apple-touch-icon-120x120-precomposed.png
+ERROR - 2017-07-09 12:20:34 --> 404 Page Not Found --> apple-touch-icon-120x120.png
+ERROR - 2017-07-09 12:20:34 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2017-07-09 12:20:34 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2017-07-09 12:20:35 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 12:22:04 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 12:30:43 --> Severity: Warning  --> mysql_pconnect(): Link to server lost, unable to reconnect /home/cmsmy/public_html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-07-09 12:30:43 --> Unable to connect to the database
+ERROR - 2017-07-09 12:30:43 --> Severity: Warning  --> mysql_pconnect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) /home/cmsmy/public_html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-07-09 12:30:43 --> Unable to connect to the database
+ERROR - 2017-07-09 12:30:43 --> Severity: Warning  --> mysql_pconnect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) /home/cmsmy/public_html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-07-09 12:30:43 --> Unable to connect to the database
+ERROR - 2017-07-09 12:30:43 --> Severity: Warning  --> mysql_pconnect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) /home/cmsmy/public_html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-07-09 12:30:43 --> Unable to connect to the database
+ERROR - 2017-07-09 12:30:43 --> Severity: Warning  --> mysql_pconnect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) /home/cmsmy/public_html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-07-09 12:30:43 --> Unable to connect to the database
+ERROR - 2017-07-09 12:30:43 --> Severity: Warning  --> mysql_pconnect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) /home/cmsmy/public_html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-07-09 12:30:43 --> Unable to connect to the database
+ERROR - 2017-07-09 12:30:43 --> Severity: Warning  --> mysql_pconnect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) /home/cmsmy/public_html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-07-09 12:30:43 --> Unable to connect to the database
+ERROR - 2017-07-09 12:30:43 --> Severity: Warning  --> mysql_pconnect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) /home/cmsmy/public_html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-07-09 12:30:43 --> Unable to connect to the database
+ERROR - 2017-07-09 12:30:43 --> Severity: Warning  --> mysql_pconnect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) /home/cmsmy/public_html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-07-09 12:30:43 --> Unable to connect to the database
+ERROR - 2017-07-09 12:30:43 --> Severity: Warning  --> mysql_pconnect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) /home/cmsmy/public_html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-07-09 12:30:43 --> Unable to connect to the database
+ERROR - 2017-07-09 12:30:43 --> Severity: Warning  --> mysql_pconnect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) /home/cmsmy/public_html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-07-09 12:30:43 --> Unable to connect to the database
+ERROR - 2017-07-09 12:34:35 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-07-09 12:41:05 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-07-09 12:42:17 --> 404 Page Not Found --> apple-touch-icon-152x152-precomposed.png
+ERROR - 2017-07-09 12:42:17 --> 404 Page Not Found --> apple-touch-icon-152x152.png
+ERROR - 2017-07-09 12:42:17 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2017-07-09 12:42:18 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2017-07-09 12:42:18 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 12:42:18 --> 404 Page Not Found --> apple-touch-icon-152x152-precomposed.png
+ERROR - 2017-07-09 12:42:18 --> 404 Page Not Found --> apple-touch-icon-152x152.png
+ERROR - 2017-07-09 12:42:18 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2017-07-09 12:42:19 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2017-07-09 12:42:19 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 12:46:39 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 12:47:20 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 12:51:35 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 12:54:42 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 12:58:30 --> 404 Page Not Found --> apple-touch-icon-120x120-precomposed.png
+ERROR - 2017-07-09 12:58:30 --> 404 Page Not Found --> apple-touch-icon-120x120.png
+ERROR - 2017-07-09 12:58:31 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2017-07-09 12:58:31 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2017-07-09 12:58:31 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 12:58:31 --> 404 Page Not Found --> apple-touch-icon-120x120-precomposed.png
+ERROR - 2017-07-09 12:58:31 --> 404 Page Not Found --> apple-touch-icon-120x120.png
+ERROR - 2017-07-09 12:58:31 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2017-07-09 12:58:31 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2017-07-09 12:58:31 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 12:59:32 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 13:08:16 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-07-09 13:09:11 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 13:15:42 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 13:19:51 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-07-09 13:29:25 --> 404 Page Not Found --> apple-touch-icon-120x120-precomposed.png
+ERROR - 2017-07-09 13:29:26 --> 404 Page Not Found --> apple-touch-icon-120x120.png
+ERROR - 2017-07-09 13:29:26 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2017-07-09 13:29:26 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2017-07-09 13:29:26 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 13:29:26 --> 404 Page Not Found --> apple-touch-icon-120x120-precomposed.png
+ERROR - 2017-07-09 13:29:26 --> 404 Page Not Found --> apple-touch-icon-120x120.png
+ERROR - 2017-07-09 13:29:26 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2017-07-09 13:29:26 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2017-07-09 13:29:27 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 13:31:55 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-07-09 13:36:05 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-07-09 13:41:21 --> 404 Page Not Found --> apple-touch-icon-120x120-precomposed.png
+ERROR - 2017-07-09 13:41:21 --> 404 Page Not Found --> apple-touch-icon-120x120.png
+ERROR - 2017-07-09 13:41:21 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2017-07-09 13:41:21 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2017-07-09 13:41:21 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 13:41:21 --> 404 Page Not Found --> apple-touch-icon-120x120-precomposed.png
+ERROR - 2017-07-09 13:41:21 --> 404 Page Not Found --> apple-touch-icon-120x120.png
+ERROR - 2017-07-09 13:41:21 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2017-07-09 13:41:21 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2017-07-09 13:41:22 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 13:43:49 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-07-09 13:44:06 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-07-09 13:44:52 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-07-09 13:45:02 --> 404 Page Not Found --> apple-touch-icon-120x120-precomposed.png
+ERROR - 2017-07-09 13:45:07 --> 404 Page Not Found --> apple-touch-icon-120x120-precomposed.png
+ERROR - 2017-07-09 13:45:34 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 13:45:35 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 13:47:56 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 13:48:42 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-07-09 13:49:27 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-07-09 14:00:26 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-07-09 14:03:54 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-07-09 14:11:41 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-07-09 14:31:31 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 14:37:31 --> 404 Page Not Found --> apple-touch-icon-120x120-precomposed.png
+ERROR - 2017-07-09 14:37:31 --> 404 Page Not Found --> apple-touch-icon-120x120.png
+ERROR - 2017-07-09 14:37:31 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2017-07-09 14:37:31 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2017-07-09 14:37:31 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 14:37:31 --> 404 Page Not Found --> apple-touch-icon-120x120-precomposed.png
+ERROR - 2017-07-09 14:37:31 --> 404 Page Not Found --> apple-touch-icon-120x120.png
+ERROR - 2017-07-09 14:37:31 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2017-07-09 14:37:31 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2017-07-09 14:37:31 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 14:37:54 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-07-09 15:03:13 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 15:03:48 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 15:03:48 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 15:17:25 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-07-09 15:18:06 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 15:18:06 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 15:19:57 --> 404 Page Not Found --> apple-touch-icon-120x120-precomposed.png
+ERROR - 2017-07-09 15:19:58 --> 404 Page Not Found --> apple-touch-icon-120x120.png
+ERROR - 2017-07-09 15:19:58 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 15:19:58 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 15:19:58 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 15:19:59 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 15:19:59 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2017-07-09 15:19:59 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2017-07-09 15:19:59 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 15:20:00 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 15:26:46 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 15:26:47 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 15:27:50 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 15:30:14 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-07-09 15:37:15 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-07-09 15:53:26 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 15:54:54 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 16:00:22 --> 404 Page Not Found --> apple-touch-icon-120x120-precomposed.png
+ERROR - 2017-07-09 16:00:22 --> 404 Page Not Found --> apple-touch-icon-120x120.png
+ERROR - 2017-07-09 16:00:22 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2017-07-09 16:00:22 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2017-07-09 16:00:23 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 16:00:23 --> 404 Page Not Found --> apple-touch-icon-120x120-precomposed.png
+ERROR - 2017-07-09 16:00:23 --> 404 Page Not Found --> apple-touch-icon-120x120.png
+ERROR - 2017-07-09 16:00:23 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2017-07-09 16:00:23 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2017-07-09 16:00:24 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 16:07:22 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 16:07:38 --> 404 Page Not Found --> apple-touch-icon-120x120-precomposed.png
+ERROR - 2017-07-09 16:07:38 --> 404 Page Not Found --> apple-touch-icon-120x120.png
+ERROR - 2017-07-09 16:07:38 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2017-07-09 16:07:38 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2017-07-09 16:07:38 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 16:07:38 --> 404 Page Not Found --> apple-touch-icon-120x120-precomposed.png
+ERROR - 2017-07-09 16:07:38 --> 404 Page Not Found --> apple-touch-icon-120x120.png
+ERROR - 2017-07-09 16:07:39 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2017-07-09 16:07:39 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2017-07-09 16:07:39 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 16:13:02 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-07-09 16:14:46 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 16:14:46 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 16:16:00 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 16:16:16 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 16:16:32 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 16:23:56 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 16:29:06 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 16:38:22 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 16:53:29 --> 404 Page Not Found --> apple-touch-icon-120x120-precomposed.png
+ERROR - 2017-07-09 16:53:30 --> 404 Page Not Found --> apple-touch-icon-120x120.png
+ERROR - 2017-07-09 16:53:30 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2017-07-09 16:53:30 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2017-07-09 16:53:30 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 16:53:30 --> 404 Page Not Found --> apple-touch-icon-120x120-precomposed.png
+ERROR - 2017-07-09 16:53:30 --> 404 Page Not Found --> apple-touch-icon-120x120.png
+ERROR - 2017-07-09 16:53:30 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2017-07-09 16:53:30 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2017-07-09 16:53:30 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 16:53:30 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-07-09 16:56:32 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 17:08:40 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 17:08:40 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 17:11:05 --> 404 Page Not Found --> apple-touch-icon-120x120-precomposed.png
+ERROR - 2017-07-09 17:11:06 --> 404 Page Not Found --> apple-touch-icon-120x120.png
+ERROR - 2017-07-09 17:11:06 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2017-07-09 17:11:06 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2017-07-09 17:11:06 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 17:11:06 --> 404 Page Not Found --> apple-touch-icon-120x120-precomposed.png
+ERROR - 2017-07-09 17:11:06 --> 404 Page Not Found --> apple-touch-icon-120x120.png
+ERROR - 2017-07-09 17:11:06 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2017-07-09 17:11:06 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2017-07-09 17:11:07 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 17:12:22 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 17:16:00 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 17:17:47 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-07-09 17:38:31 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 17:52:20 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-07-09 17:54:42 --> 404 Page Not Found --> apple-touch-icon-120x120-precomposed.png
+ERROR - 2017-07-09 17:54:42 --> 404 Page Not Found --> apple-touch-icon-120x120.png
+ERROR - 2017-07-09 17:54:42 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2017-07-09 17:54:42 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2017-07-09 17:54:43 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 17:54:43 --> 404 Page Not Found --> apple-touch-icon-120x120-precomposed.png
+ERROR - 2017-07-09 17:54:43 --> 404 Page Not Found --> apple-touch-icon-120x120.png
+ERROR - 2017-07-09 17:54:43 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2017-07-09 17:54:43 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2017-07-09 17:54:43 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 17:55:02 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 18:03:00 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-07-09 18:05:50 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 18:09:09 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 18:12:27 --> 404 Page Not Found --> plus
+ERROR - 2017-07-09 18:23:04 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-07-09 18:23:45 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 18:23:45 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 18:24:15 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 18:28:34 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 18:37:11 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 18:38:27 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 18:44:06 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-07-09 18:46:17 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 18:47:16 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2017-07-09 18:47:16 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2017-07-09 18:47:16 --> 404 Page Not Found --> admin_src
+ERROR - 2017-07-09 18:47:16 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 18:47:16 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2017-07-09 18:47:16 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2017-07-09 18:47:16 --> 404 Page Not Found --> admin_src
+ERROR - 2017-07-09 18:47:16 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 18:47:17 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2017-07-09 18:47:17 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2017-07-09 18:47:17 --> 404 Page Not Found --> admin_src
+ERROR - 2017-07-09 18:47:17 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 18:47:17 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2017-07-09 18:47:17 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2017-07-09 18:47:17 --> 404 Page Not Found --> admin_src
+ERROR - 2017-07-09 18:47:17 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 19:11:37 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 19:14:08 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 19:14:44 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 19:18:46 --> 404 Page Not Found --> apple-touch-icon-120x120-precomposed.png
+ERROR - 2017-07-09 19:18:46 --> 404 Page Not Found --> apple-touch-icon-120x120.png
+ERROR - 2017-07-09 19:18:47 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2017-07-09 19:18:47 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2017-07-09 19:18:47 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 19:18:47 --> 404 Page Not Found --> apple-touch-icon-120x120-precomposed.png
+ERROR - 2017-07-09 19:18:47 --> 404 Page Not Found --> apple-touch-icon-120x120.png
+ERROR - 2017-07-09 19:18:47 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2017-07-09 19:18:47 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2017-07-09 19:18:47 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 19:20:01 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 19:20:09 --> Severity: Notice  --> Undefined index: sname /home/cmsmy/public_html/application/controllers/admin.php 5758
+ERROR - 2017-07-09 19:20:09 --> Severity: Warning  --> strpos() expects parameter 3 to be long, string given /home/cmsmy/public_html/application/models/admin_model.php 5114
+ERROR - 2017-07-09 19:20:09 --> Severity: Warning  --> strpos() expects parameter 3 to be long, string given /home/cmsmy/public_html/application/models/admin_model.php 5114
+ERROR - 2017-07-09 19:20:09 --> Severity: Warning  --> strpos() expects parameter 3 to be long, string given /home/cmsmy/public_html/application/models/admin_model.php 5114
+ERROR - 2017-07-09 19:20:09 --> Severity: Warning  --> strpos() expects parameter 3 to be long, string given /home/cmsmy/public_html/application/models/admin_model.php 5114
+ERROR - 2017-07-09 19:20:09 --> Severity: Warning  --> strpos() expects parameter 3 to be long, string given /home/cmsmy/public_html/application/models/admin_model.php 5114
+ERROR - 2017-07-09 19:20:09 --> Severity: Warning  --> strpos() expects parameter 3 to be long, string given /home/cmsmy/public_html/application/models/admin_model.php 5114
+ERROR - 2017-07-09 19:20:09 --> Severity: Warning  --> strpos() expects parameter 3 to be long, string given /home/cmsmy/public_html/application/models/admin_model.php 5114
+ERROR - 2017-07-09 19:20:09 --> Severity: Warning  --> strpos() expects parameter 3 to be long, string given /home/cmsmy/public_html/application/models/admin_model.php 5114
+ERROR - 2017-07-09 19:20:09 --> Severity: Warning  --> strpos() expects parameter 3 to be long, string given /home/cmsmy/public_html/application/models/admin_model.php 5114
+ERROR - 2017-07-09 19:20:09 --> Severity: Warning  --> strpos() expects parameter 3 to be long, string given /home/cmsmy/public_html/application/models/admin_model.php 5114
+ERROR - 2017-07-09 19:20:24 --> Severity: Warning  --> strpos() expects parameter 3 to be long, string given /home/cmsmy/public_html/application/models/admin_model.php 5114
+ERROR - 2017-07-09 19:20:24 --> Severity: Warning  --> strpos() expects parameter 3 to be long, string given /home/cmsmy/public_html/application/models/admin_model.php 5114
+ERROR - 2017-07-09 19:20:24 --> Severity: Warning  --> strpos() expects parameter 3 to be long, string given /home/cmsmy/public_html/application/models/admin_model.php 5114
+ERROR - 2017-07-09 19:20:24 --> Severity: Warning  --> strpos() expects parameter 3 to be long, string given /home/cmsmy/public_html/application/models/admin_model.php 5114
+ERROR - 2017-07-09 19:20:24 --> Severity: Warning  --> strpos() expects parameter 3 to be long, string given /home/cmsmy/public_html/application/models/admin_model.php 5114
+ERROR - 2017-07-09 19:20:24 --> Severity: Warning  --> strpos() expects parameter 3 to be long, string given /home/cmsmy/public_html/application/models/admin_model.php 5114
+ERROR - 2017-07-09 19:20:24 --> Severity: Warning  --> strpos() expects parameter 3 to be long, string given /home/cmsmy/public_html/application/models/admin_model.php 5114
+ERROR - 2017-07-09 19:20:24 --> Severity: Warning  --> strpos() expects parameter 3 to be long, string given /home/cmsmy/public_html/application/models/admin_model.php 5114
+ERROR - 2017-07-09 19:20:24 --> Severity: Warning  --> strpos() expects parameter 3 to be long, string given /home/cmsmy/public_html/application/models/admin_model.php 5114
+ERROR - 2017-07-09 19:20:24 --> Severity: Warning  --> strpos() expects parameter 3 to be long, string given /home/cmsmy/public_html/application/models/admin_model.php 5114
+ERROR - 2017-07-09 19:20:31 --> Severity: Notice  --> Undefined variable: icon /home/cmsmy/public_html/application/models/admin_model.php 4698
+ERROR - 2017-07-09 19:21:13 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 19:21:37 --> Severity: Notice  --> Undefined variable: icon /home/cmsmy/public_html/application/models/admin_model.php 4698
+ERROR - 2017-07-09 19:21:37 --> Query error: Table 'cmsmy_db.pages_english' doesn't exist
+ERROR - 2017-07-09 19:29:43 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 19:31:13 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 19:34:51 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-07-09 19:35:04 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 19:53:11 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 19:55:11 --> Severity: Notice  --> Undefined index: sname /home/cmsmy/public_html/application/controllers/admin.php 5758
+ERROR - 2017-07-09 19:55:11 --> Severity: Warning  --> strpos() expects parameter 3 to be long, string given /home/cmsmy/public_html/application/models/admin_model.php 5114
+ERROR - 2017-07-09 19:55:11 --> Severity: Warning  --> strpos() expects parameter 3 to be long, string given /home/cmsmy/public_html/application/models/admin_model.php 5114
+ERROR - 2017-07-09 19:55:11 --> Severity: Warning  --> strpos() expects parameter 3 to be long, string given /home/cmsmy/public_html/application/models/admin_model.php 5114
+ERROR - 2017-07-09 19:55:11 --> Severity: Warning  --> strpos() expects parameter 3 to be long, string given /home/cmsmy/public_html/application/models/admin_model.php 5114
+ERROR - 2017-07-09 19:55:11 --> Severity: Warning  --> strpos() expects parameter 3 to be long, string given /home/cmsmy/public_html/application/models/admin_model.php 5114
+ERROR - 2017-07-09 19:55:11 --> Severity: Warning  --> strpos() expects parameter 3 to be long, string given /home/cmsmy/public_html/application/models/admin_model.php 5114
+ERROR - 2017-07-09 19:55:11 --> Severity: Warning  --> strpos() expects parameter 3 to be long, string given /home/cmsmy/public_html/application/models/admin_model.php 5114
+ERROR - 2017-07-09 19:55:11 --> Severity: Warning  --> strpos() expects parameter 3 to be long, string given /home/cmsmy/public_html/application/models/admin_model.php 5114
+ERROR - 2017-07-09 19:55:11 --> Severity: Warning  --> strpos() expects parameter 3 to be long, string given /home/cmsmy/public_html/application/models/admin_model.php 5114
+ERROR - 2017-07-09 19:55:11 --> Severity: Warning  --> strpos() expects parameter 3 to be long, string given /home/cmsmy/public_html/application/models/admin_model.php 5114
+ERROR - 2017-07-09 19:55:33 --> Severity: Warning  --> strpos() expects parameter 3 to be long, string given /home/cmsmy/public_html/application/models/admin_model.php 5114
+ERROR - 2017-07-09 19:55:33 --> Severity: Warning  --> strpos() expects parameter 3 to be long, string given /home/cmsmy/public_html/application/models/admin_model.php 5114
+ERROR - 2017-07-09 19:55:33 --> Severity: Warning  --> strpos() expects parameter 3 to be long, string given /home/cmsmy/public_html/application/models/admin_model.php 5114
+ERROR - 2017-07-09 19:55:33 --> Severity: Warning  --> strpos() expects parameter 3 to be long, string given /home/cmsmy/public_html/application/models/admin_model.php 5114
+ERROR - 2017-07-09 19:55:33 --> Severity: Warning  --> strpos() expects parameter 3 to be long, string given /home/cmsmy/public_html/application/models/admin_model.php 5114
+ERROR - 2017-07-09 19:55:33 --> Severity: Warning  --> strpos() expects parameter 3 to be long, string given /home/cmsmy/public_html/application/models/admin_model.php 5114
+ERROR - 2017-07-09 19:55:33 --> Severity: Warning  --> strpos() expects parameter 3 to be long, string given /home/cmsmy/public_html/application/models/admin_model.php 5114
+ERROR - 2017-07-09 19:55:33 --> Severity: Warning  --> strpos() expects parameter 3 to be long, string given /home/cmsmy/public_html/application/models/admin_model.php 5114
+ERROR - 2017-07-09 19:55:33 --> Severity: Warning  --> strpos() expects parameter 3 to be long, string given /home/cmsmy/public_html/application/models/admin_model.php 5114
+ERROR - 2017-07-09 19:55:33 --> Severity: Warning  --> strpos() expects parameter 3 to be long, string given /home/cmsmy/public_html/application/models/admin_model.php 5114
+ERROR - 2017-07-09 19:59:17 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2017-07-09 19:59:17 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2017-07-09 19:59:17 --> 404 Page Not Found --> admin_src
+ERROR - 2017-07-09 19:59:18 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 19:59:18 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2017-07-09 19:59:18 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2017-07-09 19:59:18 --> 404 Page Not Found --> admin_src
+ERROR - 2017-07-09 19:59:18 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 19:59:18 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2017-07-09 19:59:19 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2017-07-09 19:59:19 --> 404 Page Not Found --> admin_src
+ERROR - 2017-07-09 19:59:19 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 19:59:19 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2017-07-09 19:59:19 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2017-07-09 19:59:20 --> 404 Page Not Found --> admin_src
+ERROR - 2017-07-09 19:59:20 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 20:06:06 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 20:23:01 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 20:29:17 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 20:33:25 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 20:33:53 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 20:34:56 --> 404 Page Not Found --> apple-touch-icon-120x120-precomposed.png
+ERROR - 2017-07-09 20:34:57 --> 404 Page Not Found --> apple-touch-icon-120x120.png
+ERROR - 2017-07-09 20:34:57 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2017-07-09 20:34:57 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2017-07-09 20:34:57 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 20:34:57 --> 404 Page Not Found --> apple-touch-icon-120x120-precomposed.png
+ERROR - 2017-07-09 20:34:57 --> 404 Page Not Found --> apple-touch-icon-120x120.png
+ERROR - 2017-07-09 20:34:57 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2017-07-09 20:34:57 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2017-07-09 20:34:57 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 20:35:08 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-07-09 20:37:30 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 20:43:09 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 20:49:28 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 20:50:19 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 20:50:19 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 20:53:54 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 21:06:40 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 21:11:38 --> 404 Page Not Found --> apple-touch-icon-120x120-precomposed.png
+ERROR - 2017-07-09 21:11:38 --> 404 Page Not Found --> apple-touch-icon-120x120.png
+ERROR - 2017-07-09 21:11:38 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2017-07-09 21:11:38 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2017-07-09 21:11:38 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 21:11:39 --> 404 Page Not Found --> apple-touch-icon-120x120-precomposed.png
+ERROR - 2017-07-09 21:11:39 --> 404 Page Not Found --> apple-touch-icon-120x120.png
+ERROR - 2017-07-09 21:11:39 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2017-07-09 21:11:39 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2017-07-09 21:11:39 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 21:17:00 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 21:28:40 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-07-09 21:40:35 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 21:42:54 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 21:46:48 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 21:50:12 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-07-09 22:07:00 --> 404 Page Not Found --> apple-touch-icon-120x120-precomposed.png
+ERROR - 2017-07-09 22:07:00 --> 404 Page Not Found --> apple-touch-icon-120x120.png
+ERROR - 2017-07-09 22:07:00 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2017-07-09 22:07:00 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2017-07-09 22:07:00 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 22:07:00 --> 404 Page Not Found --> apple-touch-icon-120x120-precomposed.png
+ERROR - 2017-07-09 22:07:00 --> 404 Page Not Found --> apple-touch-icon-120x120.png
+ERROR - 2017-07-09 22:07:00 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2017-07-09 22:07:00 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2017-07-09 22:07:01 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 22:09:29 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-07-09 22:25:20 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 22:27:51 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 22:29:32 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-07-09 22:31:15 --> 404 Page Not Found --> apple-touch-icon-152x152-precomposed.png
+ERROR - 2017-07-09 22:31:15 --> 404 Page Not Found --> apple-touch-icon-152x152.png
+ERROR - 2017-07-09 22:31:15 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2017-07-09 22:31:15 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2017-07-09 22:31:15 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 22:31:15 --> 404 Page Not Found --> apple-touch-icon-152x152-precomposed.png
+ERROR - 2017-07-09 22:31:15 --> 404 Page Not Found --> apple-touch-icon-152x152.png
+ERROR - 2017-07-09 22:31:15 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2017-07-09 22:31:15 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2017-07-09 22:31:15 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 22:51:04 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 22:52:24 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 22:52:44 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 22:53:27 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 22:53:41 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 22:53:41 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 22:55:18 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 22:55:24 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 22:55:24 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 23:00:03 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 23:01:38 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 23:03:02 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 23:04:50 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-07-09 23:10:28 --> 404 Page Not Found --> xmlrpc.php
+ERROR - 2017-07-09 23:10:28 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-07-09 23:14:31 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-07-09 23:37:29 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-07-09 23:53:45 --> 404 Page Not Found --> wp-login.php
+ERROR - 2017-07-09 23:56:48 --> 404 Page Not Found --> apple-touch-icon-120x120-precomposed.png
+ERROR - 2017-07-09 23:56:49 --> 404 Page Not Found --> apple-touch-icon-120x120.png
+ERROR - 2017-07-09 23:56:49 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 23:56:50 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 23:56:50 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 23:56:50 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 23:56:51 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2017-07-09 23:56:51 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2017-07-09 23:56:52 --> 404 Page Not Found --> assets
+ERROR - 2017-07-09 23:56:52 --> 404 Page Not Found --> favicon.ico

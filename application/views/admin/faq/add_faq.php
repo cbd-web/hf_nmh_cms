@@ -1,0 +1,159 @@
+<?php $this->load->view('admin/inc/header');?>
+<body>
+	
+	<?php $this->load->view('admin/inc/nav_top');?>
+		
+	<div class="container-fluid">
+		<div class="row-fluid">
+			<?php $this->load->view('admin/inc/nav_main');?>
+			<div id="content" class="span10">
+			<!-- start: Content -->
+			
+			<div>
+				<hr>
+				<ul class="breadcrumb">
+					<li>
+						<a href="<?php echo site_url('/');?>">Home</a> <span class="divider">/</span>
+					</li>
+					<li>
+						<a href="<?php echo site_url('/');?>admin/faq/">FAQ</a><span class="divider">/</span>
+					</li>
+                    <li>
+						Add New FAQ Entry
+					</li>
+				</ul>
+				<hr>
+			</div>
+			
+			<div class="row-fluid sortable">
+            
+            
+				<div class="box span8">
+					<div class="box-header">
+						<h2><i class="icon-th"></i><span class="break"></span>Add New FAQ Entry</h2>
+						<div class="box-icon">
+							<a href="#" class="btn-close"><i class="icon-remove"></i></a>
+						</div>
+					</div>
+					<div class="box-content">
+                  	  	<p>
+							<form id="faq-add" name="faq-add" method="post" action="<?php echo site_url('/');?>admin/add_faq_do" class="form-horizontal">
+                             <fieldset>
+    
+								  <div class="control-group">
+									<label class="control-label" for="question">Question</label>
+									<div class="controls">
+											<input type="text" class="span6" id="question" name="question" placeholder="Question" value="">
+									</div>
+								  </div>
+								  <div class="control-group">
+									<label class="control-label" for="topic">Topic</label>
+									<div class="controls">
+										<select name="topic">
+											<?php echo $this->admin_model->get_topic_option_list(); ?>
+										</select> 
+									</div>
+								  </div>
+					
+								  <div class="control-group" id="redactor_content_msg">
+										<label class="control-label" for="redactor_content">Answer:</label>
+										<div class="controls">
+											
+											<textarea id="redactor_content" class="redactor_content" name="answer" style="display:block"></textarea>
+										</div>
+								   </div>
+								 
+								  
+								  <div id="result_msg"></div>
+								  <button type="submit" class="btn btn-inverse btn pull-right" id="butt">Add FAQ Entry</button>
+                                           
+                               </fieldset> 
+                             </form>
+		             	</p>                  
+                  </div>
+				</div>
+                
+			</div>
+			
+			<hr>
+			
+			<div class="row-fluid">
+				
+				
+				
+			</div>
+			
+			<hr>
+			
+
+			
+			<!-- end: Content -->
+			</div><!--/#content.span10-->
+		</div><!--/fluid-row-->
+				
+		
+        <div class="clearfix"></div>
+		
+	<?php $this->load->view('admin/inc/footer');?>
+    </div><!--/.fluid-container-->
+    <script type='text/javascript' src="<?php echo base_url('/');?>admin_src/redactor/plugins/fullscreen.js"></script>
+    <script src="<?php echo base_url('/');?>admin_src/redactor/plugins/fontcolor.js"></script>
+    <script src="<?php echo base_url('/');?>admin_src/redactor/plugins/fontsize.js"></script>
+    <script src="<?php echo base_url('/');?>admin_src/redactor/plugins/fontfamily.js"></script>
+	<script type="text/javascript">
+	
+		/* ---------- Text Editor ---------- */
+		$('.redactor_content').redactor({ 	
+					fileUpload: '<?php echo site_url('/')?>my_images/redactor_add_file/',
+					imageGetJson: '<?php echo site_url('/')?>my_images/show_upload_images_json/',
+					imageUpload: '<?php echo site_url('/')?>my_images/redactor_add_image',
+					buttons: ['html', '|', 'formatting', '|', 'bold', 'italic', 'deleted', '|', 
+					'unorderedlist', 'orderedlist', 'outdent', 'indent', '|','image',
+					'video','file', 'table', 'link','|',
+					 'alignment', '|', 'horizontalrule'],
+					linebreaks: true,
+					focus:true,
+					plugins: ['fullscreen', 'fontcolor', 'fontsize','fontfamily']
+		});
+	
+	$('#butt').click(function(e) {
+	
+		
+		e.preventDefault();
+		//Validate
+		if($('#question').val().length == 0){
+				
+				$('#question').popover({  delay: { show: 100, hide: 3000 },placement:"top",html: true,trigger: "manual", title:"Question Required", content:"Please supply us with a question"});
+				$('#question').popover('show');
+				$('#question').focus();	
+			
+		}else{
+	
+			submit_form();
+			
+		}
+	});
+	
+	
+	function submit_form(){
+			
+			var frm = $('#faq-add');
+			//frm.submit();
+			$('#butt').html('<img src="<?php echo base_url('/').'admin_src/img/loading_white.gif';?>" /> Working...');
+			$.ajax({
+				type: 'post',
+				data: frm.serialize(),
+				url: '<?php echo site_url('/').'admin/add_faq_do';?>' ,
+				success: function (data) {
+					
+					 $('#result_msg').html(data);
+					 $('#butt').html('Add FAQ Entry');
+					
+				}
+			});	
+	
+	}
+	
+	</script>
+</body>
+</html>

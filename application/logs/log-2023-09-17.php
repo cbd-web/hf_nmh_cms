@@ -1,0 +1,222 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2023-09-17 00:37:54 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 01:00:27 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 01:08:48 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 01:31:35 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 01:43:30 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 01:48:39 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 01:56:51 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 02:17:22 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 02:31:39 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 02:44:44 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 02:55:30 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 03:01:07 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 03:04:18 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 03:16:19 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 03:28:51 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 03:30:43 --> 404 Page Not Found --> wp-login.php
+ERROR - 2023-09-17 03:44:01 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 03:59:15 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 04:10:39 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 04:34:13 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 04:47:25 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 04:54:02 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 04:54:04 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 04:54:09 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 04:57:22 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 04:58:46 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 04:58:48 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 05:16:12 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 05:41:35 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 05:56:56 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 06:02:31 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 06:07:50 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 06:17:13 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 06:28:33 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 06:31:14 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 06:50:46 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 07:09:42 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 07:18:53 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 07:37:22 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 07:51:46 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 07:53:10 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 07:58:24 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 08:00:47 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 08:11:37 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 08:22:11 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 08:31:00 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 08:37:45 --> Query error: Field 'mobile' doesn't have a default value
+ERROR - 2023-09-17 08:41:09 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 08:45:39 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 09:02:50 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 09:05:27 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 09:06:37 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 09:20:57 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 09:41:01 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 09:47:03 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 09:52:07 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 09:52:09 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 09:52:11 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 09:56:06 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 10:01:37 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-09-17 10:01:38 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 10:04:16 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 10:17:22 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 10:22:21 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 10:29:10 --> 404 Page Not Found --> simple.php
+ERROR - 2023-09-17 10:53:29 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 10:59:18 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 11:01:00 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 11:22:44 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 11:25:09 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 11:36:55 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 11:37:49 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 11:51:16 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 11:51:17 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 11:51:18 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 12:18:20 --> Query error: Field 'mobile' doesn't have a default value
+ERROR - 2023-09-17 12:23:03 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 12:30:05 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 12:36:46 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 12:46:06 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 12:57:22 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 13:30:03 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 13:30:26 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 13:31:54 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 13:42:10 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 14:04:13 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 14:24:06 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 14:48:29 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 14:51:20 --> 404 Page Not Found --> wordpress
+ERROR - 2023-09-17 15:16:34 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 15:29:40 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 15:34:38 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 15:37:22 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 15:47:39 --> Query error: Field 'mobile' doesn't have a default value
+ERROR - 2023-09-17 15:59:32 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 16:04:10 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 16:08:30 --> 404 Page Not Found --> favicon.ico
+ERROR - 2023-09-17 16:15:02 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 16:38:27 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 16:38:36 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 16:48:05 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 16:56:36 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 17:02:12 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 17:10:04 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 17:10:35 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 17:13:34 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 17:36:18 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 17:40:18 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 17:46:27 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 17:49:07 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 18:00:17 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 18:01:15 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 18:01:16 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 18:15:27 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 18:15:47 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 18:17:22 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 18:27:48 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 18:45:38 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 18:49:42 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 18:49:43 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 18:49:44 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 18:53:52 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 18:57:54 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 19:05:24 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 19:12:00 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 19:12:23 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 19:17:06 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 19:38:21 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 19:43:12 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 19:50:01 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 19:50:09 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 20:01:38 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 20:17:54 --> 404 Page Not Found --> wp-content
+ERROR - 2023-09-17 20:25:18 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 20:26:06 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 20:27:42 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 20:34:43 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 20:39:52 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 20:41:20 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 20:57:22 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 21:09:45 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 21:10:58 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 21:11:49 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 21:12:54 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 21:12:54 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 21:15:31 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 21:32:38 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 21:36:24 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 21:37:47 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 21:39:48 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 21:47:08 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 21:47:49 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 21:48:26 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 21:54:38 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 21:55:06 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 22:09:48 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 22:15:44 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 22:15:45 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 22:16:31 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 22:17:15 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 22:23:27 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 22:37:06 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 22:42:27 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 22:52:45 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 22:58:57 --> 404 Page Not Found --> wp-includes
+ERROR - 2023-09-17 22:58:57 --> 404 Page Not Found --> xmlrpc.php
+ERROR - 2023-09-17 22:58:58 --> 404 Page Not Found --> blog
+ERROR - 2023-09-17 22:58:58 --> 404 Page Not Found --> web
+ERROR - 2023-09-17 22:58:59 --> 404 Page Not Found --> wordpress
+ERROR - 2023-09-17 22:58:59 --> 404 Page Not Found --> website
+ERROR - 2023-09-17 22:58:59 --> 404 Page Not Found --> wp
+ERROR - 2023-09-17 22:59:11 --> 404 Page Not Found --> 2018
+ERROR - 2023-09-17 22:59:12 --> 404 Page Not Found --> 2019
+ERROR - 2023-09-17 22:59:12 --> 404 Page Not Found --> shop
+ERROR - 2023-09-17 22:59:12 --> 404 Page Not Found --> wp1
+ERROR - 2023-09-17 22:59:13 --> 404 Page Not Found --> test/wp-includes
+ERROR - 2023-09-17 22:59:13 --> 404 Page Not Found --> media
+ERROR - 2023-09-17 22:59:13 --> 404 Page Not Found --> wp2
+ERROR - 2023-09-17 22:59:14 --> 404 Page Not Found --> site
+ERROR - 2023-09-17 22:59:14 --> 404 Page Not Found --> cms
+ERROR - 2023-09-17 22:59:14 --> 404 Page Not Found --> sito
+ERROR - 2023-09-17 23:02:41 --> 404 Page Not Found --> admin_src
+ERROR - 2023-09-17 23:02:41 --> 404 Page Not Found --> admin_src
+ERROR - 2023-09-17 23:04:45 --> Severity: Notice  --> Undefined index: sname /home/nmhcms/web/cms2.my.na/public_html/application/controllers/admin.php 5982
+ERROR - 2023-09-17 23:04:52 --> Severity: Warning  --> file_get_contents(): Peer certificate CN=`nmh.coleso.co.za' did not match expected CN=`www.my.na' /home/nmhcms/web/cms2.my.na/public_html/application/models/property_model.php 61
+ERROR - 2023-09-17 23:04:52 --> Severity: Warning  --> file_get_contents(): Failed to enable crypto /home/nmhcms/web/cms2.my.na/public_html/application/models/property_model.php 61
+ERROR - 2023-09-17 23:04:52 --> Severity: Warning  --> file_get_contents(https://www.my.na/products_api/categories/?main_cat_id=3408): failed to open stream: operation failed /home/nmhcms/web/cms2.my.na/public_html/application/models/property_model.php 61
+ERROR - 2023-09-17 23:04:52 --> The APC PHP extension must be loaded to use APC Cache.
+ERROR - 2023-09-17 23:09:57 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 23:09:58 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 23:09:59 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 23:17:08 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 23:20:56 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 23:22:56 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 23:28:02 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 23:29:19 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 23:30:12 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 23:30:49 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 23:32:40 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 23:33:08 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 23:33:09 --> Severity: 8192  --> Function mcrypt_get_iv_size() is deprecated /home/nmhcms/web/cms2.my.na/public_html/system/libraries/Encrypt.php 319
+ERROR - 2023-09-17 23:33:09 --> Severity: 8192  --> Function mcrypt_create_iv() is deprecated /home/nmhcms/web/cms2.my.na/public_html/system/libraries/Encrypt.php 320
+ERROR - 2023-09-17 23:33:09 --> Severity: 8192  --> Function mcrypt_encrypt() is deprecated /home/nmhcms/web/cms2.my.na/public_html/system/libraries/Encrypt.php 321
+ERROR - 2023-09-17 23:34:23 --> Severity: 8192  --> Function mcrypt_get_iv_size() is deprecated /home/nmhcms/web/cms2.my.na/public_html/system/libraries/Encrypt.php 319
+ERROR - 2023-09-17 23:34:23 --> Severity: 8192  --> Function mcrypt_create_iv() is deprecated /home/nmhcms/web/cms2.my.na/public_html/system/libraries/Encrypt.php 320
+ERROR - 2023-09-17 23:34:23 --> Severity: 8192  --> Function mcrypt_encrypt() is deprecated /home/nmhcms/web/cms2.my.na/public_html/system/libraries/Encrypt.php 321
+ERROR - 2023-09-17 23:34:39 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 23:35:33 --> Severity: 8192  --> Function mcrypt_get_iv_size() is deprecated /home/nmhcms/web/cms2.my.na/public_html/system/libraries/Encrypt.php 319
+ERROR - 2023-09-17 23:35:33 --> Severity: 8192  --> Function mcrypt_create_iv() is deprecated /home/nmhcms/web/cms2.my.na/public_html/system/libraries/Encrypt.php 320
+ERROR - 2023-09-17 23:35:33 --> Severity: 8192  --> Function mcrypt_encrypt() is deprecated /home/nmhcms/web/cms2.my.na/public_html/system/libraries/Encrypt.php 321
+ERROR - 2023-09-17 23:35:35 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 23:35:58 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 23:36:53 --> Severity: 8192  --> Function mcrypt_get_iv_size() is deprecated /home/nmhcms/web/cms2.my.na/public_html/system/libraries/Encrypt.php 319
+ERROR - 2023-09-17 23:36:53 --> Severity: 8192  --> Function mcrypt_create_iv() is deprecated /home/nmhcms/web/cms2.my.na/public_html/system/libraries/Encrypt.php 320
+ERROR - 2023-09-17 23:36:53 --> Severity: 8192  --> Function mcrypt_encrypt() is deprecated /home/nmhcms/web/cms2.my.na/public_html/system/libraries/Encrypt.php 321
+ERROR - 2023-09-17 23:37:22 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 23:38:25 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 23:43:18 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 23:47:09 --> 404 Page Not Found --> assets
+ERROR - 2023-09-17 23:53:25 --> 404 Page Not Found --> assets

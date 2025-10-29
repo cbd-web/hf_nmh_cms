@@ -1,0 +1,24 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2014-02-15 01:29:13 --> 404 Page Not Found --> robots.txt
+ERROR - 2014-02-15 03:04:11 --> 404 Page Not Found --> robots.txt
+ERROR - 2014-02-15 04:37:52 --> 404 Page Not Found --> robots.txt
+ERROR - 2014-02-15 04:44:53 --> 404 Page Not Found --> favicon.ico
+ERROR - 2014-02-15 08:01:45 --> 404 Page Not Found --> robots.txt
+ERROR - 2014-02-15 08:29:10 --> 404 Page Not Found --> robots.txt
+ERROR - 2014-02-15 10:27:28 --> 404 Page Not Found --> robots.txt
+ERROR - 2014-02-15 12:15:13 --> 404 Page Not Found --> favicon.ico
+ERROR - 2014-02-15 12:24:37 --> 404 Page Not Found --> robots.txt
+ERROR - 2014-02-15 12:35:19 --> 404 Page Not Found --> favicon.ico
+ERROR - 2014-02-15 12:49:38 --> 404 Page Not Found --> apple-touch-icon-76x76-precomposed.png
+ERROR - 2014-02-15 12:49:39 --> 404 Page Not Found --> apple-touch-icon-76x76.png
+ERROR - 2014-02-15 12:49:40 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2014-02-15 12:49:40 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2014-02-15 13:42:18 --> 404 Page Not Found --> favicon.ico
+ERROR - 2014-02-15 14:53:22 --> 404 Page Not Found --> assets
+ERROR - 2014-02-15 15:13:30 --> 404 Page Not Found --> robots.txt
+ERROR - 2014-02-15 16:16:09 --> 404 Page Not Found --> favicon.ico
+ERROR - 2014-02-15 17:34:26 --> 404 Page Not Found --> favicon.ico
+ERROR - 2014-02-15 21:00:18 --> 404 Page Not Found --> robots.txt
+ERROR - 2014-02-15 21:13:56 --> 404 Page Not Found --> robots.txt
+ERROR - 2014-02-15 23:50:45 --> 404 Page Not Found --> robots.txt

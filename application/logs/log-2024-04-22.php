@@ -1,0 +1,287 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2024-04-22 00:04:06 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 00:04:06 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 00:04:06 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 00:04:06 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 00:04:06 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 00:04:06 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 00:04:06 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 00:04:06 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 00:04:06 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 00:04:06 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 00:42:35 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 00:46:14 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 01:09:21 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 01:09:22 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 01:09:23 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 01:26:55 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 01:30:54 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 01:32:22 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 01:32:22 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 01:32:23 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 02:34:59 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 02:35:03 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 02:35:04 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 02:47:33 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 02:50:12 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 02:58:41 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 02:58:42 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 03:00:11 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 03:00:31 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 03:01:31 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 03:22:52 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 03:25:04 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 03:30:46 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 03:31:23 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 03:32:21 --> 404 Page Not Found --> wp-admin
+ERROR - 2024-04-22 04:34:12 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 04:34:20 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 04:35:44 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 04:35:44 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 04:35:44 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 04:35:44 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 04:35:44 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 04:35:45 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 04:35:45 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 04:35:53 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 04:35:58 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 04:36:02 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 04:41:15 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 05:37:45 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 05:37:53 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 05:38:57 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 05:39:55 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 05:40:00 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 05:48:40 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 06:23:00 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 06:23:00 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 06:41:41 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 06:41:41 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 06:41:41 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 06:41:41 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 06:41:42 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 06:41:42 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 06:41:42 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 06:41:42 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 06:41:51 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 06:42:56 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 06:43:05 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 06:43:49 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 06:43:57 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 07:34:38 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 07:44:35 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 07:44:44 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 07:45:22 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 07:45:28 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 08:12:37 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 08:30:45 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 08:31:05 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 08:31:35 --> Severity: Notice  --> Undefined index: sname /home/nmhcms/web/cms2.my.na/public_html/application/controllers/admin.php 5982
+ERROR - 2024-04-22 08:39:49 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 08:40:05 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 08:44:27 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 08:44:29 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 08:45:46 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 08:45:46 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 08:45:47 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 08:45:47 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 08:45:47 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 08:45:47 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 08:45:47 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 08:45:47 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 08:45:47 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 08:45:47 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 08:45:47 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 08:45:47 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 08:46:49 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 08:46:58 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 08:47:40 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 08:47:46 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 08:52:01 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 08:52:01 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-04-22 08:53:59 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 09:19:53 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 09:24:15 --> Severity: Notice  --> Undefined variable: gal_id /home/nmhcms/web/cms2.my.na/public_html/application/views/admin/publications/update_pub.php 515
+ERROR - 2024-04-22 09:24:15 --> Severity: Notice  --> Undefined variable: gal_id /home/nmhcms/web/cms2.my.na/public_html/application/views/admin/publications/update_pub.php 665
+ERROR - 2024-04-22 09:27:33 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 09:27:34 --> Severity: Notice  --> Undefined property: stdClass::$review /home/nmhcms/web/cms2.my.na/public_html/application/models/admin_model.php 690
+ERROR - 2024-04-22 09:27:34 --> Severity: Notice  --> Undefined property: stdClass::$review /home/nmhcms/web/cms2.my.na/public_html/application/models/admin_model.php 690
+ERROR - 2024-04-22 09:27:34 --> Severity: Notice  --> Undefined property: stdClass::$review /home/nmhcms/web/cms2.my.na/public_html/application/models/admin_model.php 690
+ERROR - 2024-04-22 09:27:34 --> Severity: Notice  --> Undefined property: stdClass::$review /home/nmhcms/web/cms2.my.na/public_html/application/models/admin_model.php 690
+ERROR - 2024-04-22 09:27:34 --> Severity: Notice  --> Undefined property: stdClass::$review /home/nmhcms/web/cms2.my.na/public_html/application/models/admin_model.php 690
+ERROR - 2024-04-22 09:27:34 --> Severity: Notice  --> Undefined property: stdClass::$review /home/nmhcms/web/cms2.my.na/public_html/application/models/admin_model.php 690
+ERROR - 2024-04-22 09:27:34 --> Severity: Notice  --> Undefined property: stdClass::$review /home/nmhcms/web/cms2.my.na/public_html/application/models/admin_model.php 690
+ERROR - 2024-04-22 09:27:34 --> Severity: Notice  --> Undefined property: stdClass::$review /home/nmhcms/web/cms2.my.na/public_html/application/models/admin_model.php 690
+ERROR - 2024-04-22 09:27:34 --> Severity: Notice  --> Undefined property: stdClass::$review /home/nmhcms/web/cms2.my.na/public_html/application/models/admin_model.php 690
+ERROR - 2024-04-22 09:44:27 --> Severity: Notice  --> Undefined variable: icon /home/nmhcms/web/cms2.my.na/public_html/application/models/admin_model.php 4457
+ERROR - 2024-04-22 09:44:51 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 09:44:57 --> Severity: Notice  --> Undefined variable: icon /home/nmhcms/web/cms2.my.na/public_html/application/models/admin_model.php 4457
+ERROR - 2024-04-22 09:45:22 --> Severity: 8192  --> Function mcrypt_get_iv_size() is deprecated /home/nmhcms/web/cms2.my.na/public_html/system/libraries/Encrypt.php 319
+ERROR - 2024-04-22 09:45:22 --> Severity: 8192  --> Function mcrypt_create_iv() is deprecated /home/nmhcms/web/cms2.my.na/public_html/system/libraries/Encrypt.php 320
+ERROR - 2024-04-22 09:45:22 --> Severity: 8192  --> Function mcrypt_encrypt() is deprecated /home/nmhcms/web/cms2.my.na/public_html/system/libraries/Encrypt.php 321
+ERROR - 2024-04-22 09:45:22 --> Severity: 8192  --> Function mcrypt_get_iv_size() is deprecated /home/nmhcms/web/cms2.my.na/public_html/system/libraries/Encrypt.php 319
+ERROR - 2024-04-22 09:45:22 --> Severity: 8192  --> Function mcrypt_create_iv() is deprecated /home/nmhcms/web/cms2.my.na/public_html/system/libraries/Encrypt.php 320
+ERROR - 2024-04-22 09:45:22 --> Severity: 8192  --> Function mcrypt_encrypt() is deprecated /home/nmhcms/web/cms2.my.na/public_html/system/libraries/Encrypt.php 321
+ERROR - 2024-04-22 09:45:22 --> Severity: 8192  --> Function mcrypt_get_iv_size() is deprecated /home/nmhcms/web/cms2.my.na/public_html/system/libraries/Encrypt.php 319
+ERROR - 2024-04-22 09:45:22 --> Severity: 8192  --> Function mcrypt_create_iv() is deprecated /home/nmhcms/web/cms2.my.na/public_html/system/libraries/Encrypt.php 320
+ERROR - 2024-04-22 09:45:22 --> Severity: 8192  --> Function mcrypt_encrypt() is deprecated /home/nmhcms/web/cms2.my.na/public_html/system/libraries/Encrypt.php 321
+ERROR - 2024-04-22 09:45:22 --> Severity: 8192  --> Function mcrypt_get_iv_size() is deprecated /home/nmhcms/web/cms2.my.na/public_html/system/libraries/Encrypt.php 319
+ERROR - 2024-04-22 09:45:22 --> Severity: 8192  --> Function mcrypt_create_iv() is deprecated /home/nmhcms/web/cms2.my.na/public_html/system/libraries/Encrypt.php 320
+ERROR - 2024-04-22 09:45:22 --> Severity: 8192  --> Function mcrypt_encrypt() is deprecated /home/nmhcms/web/cms2.my.na/public_html/system/libraries/Encrypt.php 321
+ERROR - 2024-04-22 09:49:43 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 09:49:53 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 09:50:33 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 09:50:39 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 10:01:32 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 10:03:04 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 10:04:25 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 10:10:49 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 10:13:58 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 10:24:36 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 10:31:06 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 10:31:17 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 10:41:43 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 10:41:54 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 10:41:56 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 10:53:37 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 10:53:46 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 10:54:32 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 10:54:40 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 11:01:38 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 11:01:48 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 11:02:43 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 11:11:42 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 11:15:05 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 11:16:47 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 11:17:08 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 11:18:09 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 11:18:37 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 11:21:24 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 11:26:32 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 11:31:37 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 11:32:29 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 11:49:31 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 11:54:01 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 11:57:32 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 12:01:27 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 12:01:31 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 12:04:02 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 12:13:31 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 12:31:15 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 12:32:11 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 13:01:53 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 13:02:29 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 13:02:47 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 13:06:30 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 13:18:34 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 13:18:34 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-04-22 13:21:49 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 13:23:23 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 13:24:11 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 13:24:11 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-04-22 13:31:02 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 13:31:30 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 13:59:42 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 14:01:10 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 14:03:02 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 14:06:40 --> 404 Page Not Found --> e
+ERROR - 2024-04-22 14:22:28 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 14:23:45 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 14:31:11 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 14:38:28 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 15:02:22 --> 404 Page Not Found --> e
+ERROR - 2024-04-22 15:12:21 --> 404 Page Not Found --> wp-content
+ERROR - 2024-04-22 15:12:40 --> 404 Page Not Found --> wp-content
+ERROR - 2024-04-22 15:12:46 --> 404 Page Not Found --> wp-content
+ERROR - 2024-04-22 15:13:04 --> 404 Page Not Found --> wp-content
+ERROR - 2024-04-22 15:13:11 --> 404 Page Not Found --> wp-includes
+ERROR - 2024-04-22 15:13:21 --> 404 Page Not Found --> wp-includes
+ERROR - 2024-04-22 15:13:47 --> 404 Page Not Found --> wp-content
+ERROR - 2024-04-22 15:13:58 --> 404 Page Not Found --> wp-content
+ERROR - 2024-04-22 15:14:16 --> 404 Page Not Found --> wp-content
+ERROR - 2024-04-22 15:14:57 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 15:15:43 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 15:38:52 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 15:38:52 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 15:43:00 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 16:01:47 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 16:01:50 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 16:01:53 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 16:12:12 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 16:12:12 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 16:12:13 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 16:12:13 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 16:12:13 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 16:12:13 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 16:12:13 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 16:12:13 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 16:12:14 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 16:12:14 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 16:12:14 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 16:12:14 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 16:12:14 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 16:12:14 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 16:16:15 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 16:28:43 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 16:36:41 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 16:37:28 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 17:22:48 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 17:26:35 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 17:33:43 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 17:37:59 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 17:55:23 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 17:55:23 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 17:55:24 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 17:55:24 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 17:55:24 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 17:55:24 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 17:55:24 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 17:55:24 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 17:55:24 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 17:55:24 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 18:27:39 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 18:28:29 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 18:47:47 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 18:54:32 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 18:58:14 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 18:58:14 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 18:58:14 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 18:58:14 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 18:58:14 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 18:58:14 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 18:58:14 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 18:58:14 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 18:58:14 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 18:58:14 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 18:58:14 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 18:58:15 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 18:58:15 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 18:58:54 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 19:02:14 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 19:07:13 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 19:09:31 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 19:19:31 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 19:22:33 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 20:11:20 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 21:05:36 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 21:06:34 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 21:11:25 --> 404 Page Not Found --> simple.php
+ERROR - 2024-04-22 21:11:49 --> 404 Page Not Found --> style.php
+ERROR - 2024-04-22 21:12:41 --> 404 Page Not Found --> chosen.php
+ERROR - 2024-04-22 21:13:17 --> 404 Page Not Found --> simple.php
+ERROR - 2024-04-22 21:22:24 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 21:29:17 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 21:44:51 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 21:44:52 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 21:44:56 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 21:45:19 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 21:52:03 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 21:52:03 --> 404 Page Not Found --> favicon.ico
+ERROR - 2024-04-22 21:52:16 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 22:32:59 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 22:40:14 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 22:40:16 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 22:54:39 --> 404 Page Not Found --> assets
+ERROR - 2024-04-22 22:58:58 --> 404 Page Not Found --> wp-login.php
+ERROR - 2024-04-22 23:12:18 --> 404 Page Not Found --> assets

@@ -1,0 +1,267 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2016-09-03 00:10:39 --> 404 Page Not Found --> xmlrpc.php
+ERROR - 2016-09-03 00:37:12 --> 404 Page Not Found --> wp-login.php
+ERROR - 2016-09-03 00:47:45 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 00:53:48 --> 404 Page Not Found --> html5shim.googlecode.com
+ERROR - 2016-09-03 00:53:49 --> 404 Page Not Found --> ajax.googleapis.com
+ERROR - 2016-09-03 00:53:50 --> 404 Page Not Found --> ajax.googleapis.com
+ERROR - 2016-09-03 00:53:54 --> 404 Page Not Found --> 404testpage4525d2fdc
+ERROR - 2016-09-03 00:53:55 --> 404 Page Not Found --> 404javascript.js
+ERROR - 2016-09-03 01:51:16 --> 404 Page Not Found --> wp-login.php
+ERROR - 2016-09-03 01:53:51 --> 404 Page Not Found --> wp-login.php
+ERROR - 2016-09-03 02:22:07 --> 404 Page Not Found --> apple-touch-icon-152x152-precomposed.png
+ERROR - 2016-09-03 02:22:07 --> 404 Page Not Found --> apple-touch-icon-152x152.png
+ERROR - 2016-09-03 02:22:08 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2016-09-03 02:27:06 --> 404 Page Not Found --> apple-touch-icon-152x152-precomposed.png
+ERROR - 2016-09-03 02:27:06 --> 404 Page Not Found --> apple-touch-icon-152x152.png
+ERROR - 2016-09-03 02:27:06 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2016-09-03 02:35:05 --> 404 Page Not Found --> wp-login.php
+ERROR - 2016-09-03 03:43:30 --> 404 Page Not Found --> wp-login.php
+ERROR - 2016-09-03 03:58:58 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 04:40:59 --> 404 Page Not Found --> wp-admin
+ERROR - 2016-09-03 04:47:57 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 04:49:31 --> 404 Page Not Found --> test/wp-admin
+ERROR - 2016-09-03 04:58:00 --> 404 Page Not Found --> wordpress
+ERROR - 2016-09-03 05:06:27 --> 404 Page Not Found --> blog
+ERROR - 2016-09-03 05:14:35 --> 404 Page Not Found --> wp
+ERROR - 2016-09-03 05:16:29 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 05:23:05 --> 404 Page Not Found --> old
+ERROR - 2016-09-03 05:28:02 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-09-03 05:55:19 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 07:18:45 --> 404 Page Not Found --> admin_src
+ERROR - 2016-09-03 07:18:48 --> Severity: Notice  --> Undefined index: sname /home/cmsmy/public_html/application/controllers/admin.php 5526
+ERROR - 2016-09-03 07:18:48 --> Severity: Warning  --> strpos() expects parameter 3 to be long, string given /home/cmsmy/public_html/application/models/admin_model.php 5070
+ERROR - 2016-09-03 07:18:48 --> Severity: Warning  --> strpos() expects parameter 3 to be long, string given /home/cmsmy/public_html/application/models/admin_model.php 5070
+ERROR - 2016-09-03 07:18:48 --> Severity: Warning  --> strpos() expects parameter 3 to be long, string given /home/cmsmy/public_html/application/models/admin_model.php 5070
+ERROR - 2016-09-03 07:18:48 --> Severity: Warning  --> strpos() expects parameter 3 to be long, string given /home/cmsmy/public_html/application/models/admin_model.php 5070
+ERROR - 2016-09-03 07:18:48 --> Severity: Warning  --> strpos() expects parameter 3 to be long, string given /home/cmsmy/public_html/application/models/admin_model.php 5070
+ERROR - 2016-09-03 07:18:48 --> Severity: Warning  --> strpos() expects parameter 3 to be long, string given /home/cmsmy/public_html/application/models/admin_model.php 5070
+ERROR - 2016-09-03 07:18:48 --> Severity: Warning  --> strpos() expects parameter 3 to be long, string given /home/cmsmy/public_html/application/models/admin_model.php 5070
+ERROR - 2016-09-03 07:18:48 --> Severity: Warning  --> strpos() expects parameter 3 to be long, string given /home/cmsmy/public_html/application/models/admin_model.php 5070
+ERROR - 2016-09-03 07:18:48 --> Severity: Warning  --> strpos() expects parameter 3 to be long, string given /home/cmsmy/public_html/application/models/admin_model.php 5070
+ERROR - 2016-09-03 07:18:48 --> Severity: Warning  --> strpos() expects parameter 3 to be long, string given /home/cmsmy/public_html/application/models/admin_model.php 5070
+ERROR - 2016-09-03 07:55:19 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 07:56:23 --> 404 Page Not Found --> wp-login.php
+ERROR - 2016-09-03 08:24:53 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 08:30:08 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 08:34:58 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 09:08:36 --> 404 Page Not Found --> wp-login.php
+ERROR - 2016-09-03 09:08:40 --> 404 Page Not Found --> wp-login.php
+ERROR - 2016-09-03 09:08:41 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 09:08:44 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 09:29:54 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-09-03 09:43:14 --> 404 Page Not Found --> .well-known
+ERROR - 2016-09-03 09:46:24 --> 404 Page Not Found --> .well-known
+ERROR - 2016-09-03 09:49:32 --> 404 Page Not Found --> apple-app-site-association
+ERROR - 2016-09-03 09:56:18 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-09-03 10:02:18 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 10:08:31 --> 404 Page Not Found --> wp-login.php
+ERROR - 2016-09-03 10:08:31 --> 404 Page Not Found --> wp-login.php
+ERROR - 2016-09-03 10:10:57 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-09-03 10:18:26 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 10:43:06 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 10:43:26 --> 404 Page Not Found --> wp-login.php
+ERROR - 2016-09-03 11:06:54 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-09-03 11:17:51 --> Severity: Notice  --> Undefined index: sname /home/cmsmy/public_html/application/controllers/admin.php 5526
+ERROR - 2016-09-03 11:17:51 --> Severity: Warning  --> strpos() expects parameter 3 to be long, string given /home/cmsmy/public_html/application/models/admin_model.php 5070
+ERROR - 2016-09-03 11:17:51 --> Severity: Warning  --> strpos() expects parameter 3 to be long, string given /home/cmsmy/public_html/application/models/admin_model.php 5070
+ERROR - 2016-09-03 11:17:51 --> Severity: Warning  --> strpos() expects parameter 3 to be long, string given /home/cmsmy/public_html/application/models/admin_model.php 5070
+ERROR - 2016-09-03 11:17:51 --> Severity: Warning  --> strpos() expects parameter 3 to be long, string given /home/cmsmy/public_html/application/models/admin_model.php 5070
+ERROR - 2016-09-03 11:17:51 --> Severity: Warning  --> strpos() expects parameter 3 to be long, string given /home/cmsmy/public_html/application/models/admin_model.php 5070
+ERROR - 2016-09-03 11:17:51 --> Severity: Warning  --> strpos() expects parameter 3 to be long, string given /home/cmsmy/public_html/application/models/admin_model.php 5070
+ERROR - 2016-09-03 11:17:51 --> Severity: Warning  --> strpos() expects parameter 3 to be long, string given /home/cmsmy/public_html/application/models/admin_model.php 5070
+ERROR - 2016-09-03 11:17:51 --> Severity: Warning  --> strpos() expects parameter 3 to be long, string given /home/cmsmy/public_html/application/models/admin_model.php 5070
+ERROR - 2016-09-03 11:17:51 --> Severity: Warning  --> strpos() expects parameter 3 to be long, string given /home/cmsmy/public_html/application/models/admin_model.php 5070
+ERROR - 2016-09-03 11:17:51 --> Severity: Warning  --> strpos() expects parameter 3 to be long, string given /home/cmsmy/public_html/application/models/admin_model.php 5070
+ERROR - 2016-09-03 11:18:13 --> Severity: Notice  --> Undefined variable: post_template /home/cmsmy/public_html/application/views/admin/posts/add_post.php 82
+ERROR - 2016-09-03 11:18:13 --> Severity: Notice  --> Undefined variable: post_id /home/cmsmy/public_html/application/views/admin/inc/categories_inc.php 82
+ERROR - 2016-09-03 11:29:48 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-09-03 11:29:49 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2016-09-03 11:29:49 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2016-09-03 11:32:54 --> 404 Page Not Found --> wp-login.php
+ERROR - 2016-09-03 11:41:19 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 11:42:06 --> 404 Page Not Found --> wp-admin
+ERROR - 2016-09-03 11:42:09 --> 404 Page Not Found --> wp-admin
+ERROR - 2016-09-03 11:42:09 --> 404 Page Not Found --> wp-admin
+ERROR - 2016-09-03 11:42:10 --> 404 Page Not Found --> wp-content
+ERROR - 2016-09-03 11:42:10 --> 404 Page Not Found --> wp-content
+ERROR - 2016-09-03 11:42:11 --> 404 Page Not Found --> wp-content
+ERROR - 2016-09-03 11:42:12 --> 404 Page Not Found --> wp-content
+ERROR - 2016-09-03 11:42:12 --> 404 Page Not Found --> wp-content
+ERROR - 2016-09-03 11:42:13 --> 404 Page Not Found --> wp-content
+ERROR - 2016-09-03 11:42:14 --> 404 Page Not Found --> wp-content
+ERROR - 2016-09-03 11:42:15 --> 404 Page Not Found --> wp-content
+ERROR - 2016-09-03 11:42:15 --> 404 Page Not Found --> wp-content
+ERROR - 2016-09-03 11:42:16 --> 404 Page Not Found --> wp-content
+ERROR - 2016-09-03 11:42:17 --> 404 Page Not Found --> wp-content
+ERROR - 2016-09-03 11:42:17 --> 404 Page Not Found --> wp-content
+ERROR - 2016-09-03 11:42:18 --> 404 Page Not Found --> wp-content
+ERROR - 2016-09-03 11:42:19 --> 404 Page Not Found --> wp-content
+ERROR - 2016-09-03 11:42:19 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 11:42:19 --> 404 Page Not Found --> wp-content
+ERROR - 2016-09-03 11:42:19 --> 404 Page Not Found --> wp-content
+ERROR - 2016-09-03 11:42:20 --> 404 Page Not Found --> wp-content
+ERROR - 2016-09-03 11:42:21 --> 404 Page Not Found --> wp-content
+ERROR - 2016-09-03 11:42:21 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 11:42:21 --> 404 Page Not Found --> wp-content
+ERROR - 2016-09-03 11:42:22 --> 404 Page Not Found --> wp-content
+ERROR - 2016-09-03 11:42:22 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 11:42:22 --> 404 Page Not Found --> wp-content
+ERROR - 2016-09-03 11:42:23 --> 404 Page Not Found --> wp-content
+ERROR - 2016-09-03 11:42:23 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 11:42:23 --> 404 Page Not Found --> force-download.php
+ERROR - 2016-09-03 11:42:23 --> 404 Page Not Found --> wp-admin
+ERROR - 2016-09-03 11:42:23 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 11:42:24 --> 404 Page Not Found --> wp-content
+ERROR - 2016-09-03 11:42:24 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 11:42:24 --> 404 Page Not Found --> wp-content
+ERROR - 2016-09-03 11:42:25 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 11:42:25 --> 404 Page Not Found --> wp-content
+ERROR - 2016-09-03 11:42:25 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 11:42:26 --> 404 Page Not Found --> wp-content
+ERROR - 2016-09-03 11:42:26 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 11:42:26 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 11:42:26 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 11:42:27 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 11:42:27 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 11:42:28 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 11:42:28 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 11:42:29 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 11:42:29 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 11:42:29 --> 404 Page Not Found --> wp-content
+ERROR - 2016-09-03 11:42:29 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 11:42:30 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 11:42:30 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 11:42:31 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 11:42:32 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 11:42:32 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 11:42:33 --> 404 Page Not Found --> wp-admin
+ERROR - 2016-09-03 11:42:33 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 11:42:34 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 11:42:35 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 11:42:35 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 11:42:36 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 11:42:37 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 11:42:37 --> 404 Page Not Found --> wp-admin
+ERROR - 2016-09-03 11:42:37 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 11:42:38 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 11:42:40 --> 404 Page Not Found --> wp-content
+ERROR - 2016-09-03 11:42:41 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 11:42:44 --> 404 Page Not Found --> wp-content
+ERROR - 2016-09-03 11:42:45 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 11:42:48 --> 404 Page Not Found --> wp-content
+ERROR - 2016-09-03 11:42:49 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 11:42:51 --> 404 Page Not Found --> wp-content
+ERROR - 2016-09-03 11:42:52 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 11:42:56 --> 404 Page Not Found --> wp-admin
+ERROR - 2016-09-03 11:42:56 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 11:43:00 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 11:43:03 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 11:43:08 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 11:45:50 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 12:18:19 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-09-03 12:44:17 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-09-03 13:01:55 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-09-03 13:21:33 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-09-03 13:23:17 --> 404 Page Not Found --> wp-login.php
+ERROR - 2016-09-03 13:30:58 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 13:40:43 --> 404 Page Not Found --> wp-login.php
+ERROR - 2016-09-03 13:45:30 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-09-03 13:45:35 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-09-03 13:55:41 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 13:55:41 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 13:55:43 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 13:55:45 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 13:55:47 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 13:55:49 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 13:55:52 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 13:55:55 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 13:55:56 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 13:56:00 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 13:56:02 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 13:56:03 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 13:56:04 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 13:56:06 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 13:56:08 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 13:56:08 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 13:56:08 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 13:56:09 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 13:56:09 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 13:56:09 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 13:56:09 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 13:56:09 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 13:56:10 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 13:56:10 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 13:56:10 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 13:56:10 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 13:56:11 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 13:56:12 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 13:56:14 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 13:56:16 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 13:56:16 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 13:56:16 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 13:56:17 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 13:56:17 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 13:56:17 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 13:56:18 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 13:56:18 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 13:56:23 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 13:56:23 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 13:56:24 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 13:56:30 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 14:09:44 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-09-03 14:23:33 --> 404 Page Not Found --> browserconfig.xml
+ERROR - 2016-09-03 14:46:41 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-09-03 14:55:26 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-09-03 15:09:39 --> 404 Page Not Found --> wp-login.php
+ERROR - 2016-09-03 15:09:42 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-09-03 15:35:00 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-09-03 15:42:55 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-09-03 15:49:23 --> 404 Page Not Found --> wp-login.php
+ERROR - 2016-09-03 15:53:50 --> 404 Page Not Found --> wp-login.php
+ERROR - 2016-09-03 16:27:29 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-09-03 16:49:45 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-09-03 17:22:43 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-09-03 17:43:23 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-09-03 17:55:30 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 18:16:28 --> 404 Page Not Found --> wp-login.php
+ERROR - 2016-09-03 18:57:33 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 18:59:32 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-09-03 19:05:37 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 19:35:58 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 19:36:33 --> 404 Page Not Found --> wp-login.php
+ERROR - 2016-09-03 20:22:09 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-09-03 20:27:00 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 20:38:22 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-09-03 20:45:02 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 20:52:51 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-09-03 20:54:47 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 20:57:17 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-09-03 21:12:41 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2016-09-03 21:12:41 --> 404 Page Not Found --> admin_src
+ERROR - 2016-09-03 21:12:42 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-09-03 21:12:42 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2016-09-03 21:16:08 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-09-03 21:19:32 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 21:31:59 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-09-03 21:38:09 --> 404 Page Not Found --> wp-login.php
+ERROR - 2016-09-03 21:58:01 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 22:02:42 --> 404 Page Not Found --> wp-login.php
+ERROR - 2016-09-03 22:26:41 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 22:30:13 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 22:54:44 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-09-03 23:00:51 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 23:10:38 --> 404 Page Not Found --> wp-admin
+ERROR - 2016-09-03 23:10:40 --> 404 Page Not Found --> wp-admin
+ERROR - 2016-09-03 23:10:44 --> 404 Page Not Found --> wp-admin
+ERROR - 2016-09-03 23:10:47 --> 404 Page Not Found --> wp-admin
+ERROR - 2016-09-03 23:10:48 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 23:10:51 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 23:10:51 --> 404 Page Not Found --> wp-admin
+ERROR - 2016-09-03 23:10:51 --> 404 Page Not Found --> wp-admin
+ERROR - 2016-09-03 23:10:54 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 23:10:58 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 23:11:01 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 23:11:02 --> 404 Page Not Found --> assets
+ERROR - 2016-09-03 23:25:24 --> 404 Page Not Found --> assets

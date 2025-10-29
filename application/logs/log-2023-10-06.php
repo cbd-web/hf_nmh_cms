@@ -1,0 +1,479 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2023-10-06 00:08:31 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 00:08:32 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 00:08:34 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 00:46:00 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 01:26:38 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 01:26:41 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 01:28:16 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 01:51:39 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 01:57:30 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 02:10:28 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 02:20:43 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 02:22:16 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 02:22:25 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 02:23:48 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 02:25:51 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 02:26:03 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 02:26:09 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 02:32:09 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 02:32:20 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 02:32:29 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 02:38:07 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 02:38:49 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 02:40:36 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 02:41:31 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 02:41:47 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 02:43:47 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 02:45:51 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 02:46:44 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 02:47:03 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 02:49:08 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 02:49:16 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 02:49:25 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 02:49:57 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 02:51:25 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 02:51:34 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 02:52:54 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 02:57:50 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 02:58:00 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 02:59:19 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 02:59:30 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 02:59:38 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 03:03:12 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 03:03:22 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 03:03:31 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 03:09:31 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 03:09:41 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 03:09:51 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 03:17:51 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 03:18:00 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 03:19:31 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 03:19:42 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 03:21:18 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 03:22:55 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 03:22:56 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 03:26:29 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 03:26:35 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 03:27:22 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 03:28:18 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 03:32:08 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 03:32:43 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 03:32:52 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 03:34:01 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 03:34:11 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 03:36:57 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 03:39:46 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 03:40:09 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 03:44:44 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 03:46:45 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 03:46:54 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 03:47:03 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 03:48:33 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 03:48:35 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 03:48:40 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 03:48:45 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 03:50:00 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 03:50:07 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 03:51:28 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 03:54:14 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 03:54:14 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 03:54:24 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 03:54:33 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 03:55:34 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 03:55:45 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 03:55:52 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 03:57:22 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 03:57:31 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 03:57:41 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 03:59:02 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 04:01:22 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 04:01:22 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 04:03:28 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 04:07:19 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 04:07:22 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 04:07:28 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 04:07:38 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 04:13:48 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 04:13:57 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 04:14:06 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 04:21:51 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 04:22:01 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 04:22:10 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 04:28:44 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 04:33:26 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 04:33:34 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 04:34:11 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 04:35:51 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 04:37:33 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 04:37:36 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 04:37:45 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 04:37:54 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 04:42:44 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 04:43:21 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 04:43:31 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 04:43:40 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 04:47:40 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 04:47:49 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 04:47:59 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 04:50:42 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 04:50:51 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 04:51:00 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 04:51:58 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 04:52:05 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 04:52:20 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 04:53:21 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 04:53:27 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 04:54:14 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 04:54:24 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 04:54:34 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 04:54:43 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 04:56:12 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 04:56:54 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 04:57:02 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 04:57:54 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 04:58:03 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 05:01:20 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 05:01:29 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 05:01:38 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 05:02:26 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 05:02:35 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 05:02:45 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 05:05:55 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 05:06:04 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 05:06:14 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 05:06:31 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 05:07:46 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 05:07:55 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 05:08:04 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 05:08:46 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 05:08:56 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 05:09:05 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 05:10:42 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 05:11:46 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 05:11:56 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 05:12:05 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 05:12:25 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 05:13:58 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 05:14:07 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 05:14:16 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 05:15:58 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 05:16:08 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 05:16:17 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 05:17:56 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 05:18:19 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 05:18:29 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 05:18:38 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 05:20:28 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 05:20:37 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 05:20:46 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 05:21:08 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 05:21:17 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 05:21:26 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 05:23:45 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 05:23:54 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 05:24:04 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 05:27:17 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 05:27:26 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 05:27:36 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 05:27:45 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 05:28:33 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 05:28:43 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 05:28:52 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 05:29:23 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 05:29:29 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 05:29:38 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 05:31:21 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 05:31:28 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 05:31:37 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 05:33:50 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 05:33:59 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 05:34:08 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 05:34:48 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 05:34:57 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 05:35:34 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 05:35:39 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 05:35:48 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 05:36:34 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 05:36:44 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 05:37:51 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 05:38:00 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 05:38:09 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 05:54:59 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 05:55:05 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 05:55:54 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 05:56:00 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 06:15:22 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 06:23:39 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 06:37:49 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 06:38:00 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 06:38:00 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 06:38:17 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 06:38:17 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 06:38:19 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 06:38:23 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 06:38:28 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 06:38:41 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 06:38:42 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 06:38:55 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 06:39:50 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 06:39:52 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 06:44:30 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 06:44:36 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 06:44:42 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 06:44:50 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 06:44:51 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 06:45:09 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 06:45:09 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 06:45:11 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 06:45:12 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 06:45:13 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 06:45:14 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 06:45:35 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 06:45:53 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 06:50:22 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 06:50:32 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 06:52:16 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 06:55:58 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 06:56:00 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 06:58:49 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 06:58:58 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 07:11:14 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 07:17:46 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 07:56:00 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 07:56:24 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 08:00:39 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 08:00:51 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 08:01:34 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 08:01:51 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 08:03:43 --> 404 Page Not Found --> wp-content
+ERROR - 2023-10-06 08:18:57 --> 404 Page Not Found --> ads.txt
+ERROR - 2023-10-06 08:29:51 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 08:57:41 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 08:58:16 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 09:03:11 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 09:03:23 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 09:18:32 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 09:18:46 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 09:27:12 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 09:30:09 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 09:30:12 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 09:31:22 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 09:36:34 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 09:37:55 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 09:58:57 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 09:59:28 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 10:01:30 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 10:01:48 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 10:04:31 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 10:04:44 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 10:23:03 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 10:30:22 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 10:31:13 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 10:31:22 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 10:31:57 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 10:54:14 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 10:59:53 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 11:00:32 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 11:01:16 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 11:01:23 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 11:01:45 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 11:06:10 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 11:06:57 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 11:31:22 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 11:31:25 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 11:45:41 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 11:46:42 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 11:47:20 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 11:51:16 --> 404 Page Not Found --> vendor/phpunit
+ERROR - 2023-10-06 12:01:31 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 12:01:57 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 12:22:31 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 12:23:12 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 12:25:45 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 12:25:45 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 12:30:24 --> 404 Page Not Found --> wp-pano.php
+ERROR - 2023-10-06 12:31:10 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 12:31:22 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 12:36:20 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 12:36:20 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 12:36:20 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 12:36:20 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 12:36:20 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 12:36:20 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 12:36:20 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 12:36:20 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 12:36:20 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 12:36:20 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 12:36:20 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 12:50:56 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 13:01:28 --> 404 Page Not Found --> style.php
+ERROR - 2023-10-06 13:01:38 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 13:01:45 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 13:21:57 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 13:30:39 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 13:31:14 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 13:31:26 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 13:36:24 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 13:36:24 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 13:36:24 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 13:36:24 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 13:36:24 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 13:36:24 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 13:36:24 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 13:36:24 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 13:36:25 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 13:41:41 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 13:47:37 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 13:53:16 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 14:01:32 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 14:01:38 --> 404 Page Not Found --> wp-includes
+ERROR - 2023-10-06 14:01:38 --> 404 Page Not Found --> xmlrpc.php
+ERROR - 2023-10-06 14:01:39 --> 404 Page Not Found --> blog
+ERROR - 2023-10-06 14:01:39 --> 404 Page Not Found --> web
+ERROR - 2023-10-06 14:01:40 --> 404 Page Not Found --> wordpress
+ERROR - 2023-10-06 14:01:40 --> 404 Page Not Found --> website
+ERROR - 2023-10-06 14:01:41 --> 404 Page Not Found --> wp
+ERROR - 2023-10-06 14:01:51 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 14:01:56 --> 404 Page Not Found --> 2018
+ERROR - 2023-10-06 14:01:57 --> 404 Page Not Found --> 2019
+ERROR - 2023-10-06 14:01:57 --> 404 Page Not Found --> shop
+ERROR - 2023-10-06 14:01:58 --> 404 Page Not Found --> wp1
+ERROR - 2023-10-06 14:01:58 --> 404 Page Not Found --> test/wp-includes
+ERROR - 2023-10-06 14:01:58 --> 404 Page Not Found --> media
+ERROR - 2023-10-06 14:01:59 --> 404 Page Not Found --> wp2
+ERROR - 2023-10-06 14:01:59 --> 404 Page Not Found --> site
+ERROR - 2023-10-06 14:02:00 --> 404 Page Not Found --> cms
+ERROR - 2023-10-06 14:02:00 --> 404 Page Not Found --> sito
+ERROR - 2023-10-06 14:09:20 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 14:29:04 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 15:04:53 --> 404 Page Not Found --> wp-content
+ERROR - 2023-10-06 15:05:00 --> 404 Page Not Found --> wp-content
+ERROR - 2023-10-06 15:05:12 --> 404 Page Not Found --> wp-includes
+ERROR - 2023-10-06 15:05:24 --> 404 Page Not Found --> wp-includes
+ERROR - 2023-10-06 15:18:25 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 15:23:20 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 15:23:40 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 15:23:59 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 15:40:37 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 15:41:22 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 16:44:57 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 16:49:14 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 16:49:42 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 16:53:34 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 16:59:44 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 17:04:54 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 17:23:45 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 17:34:26 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 17:40:54 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 17:57:20 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 18:22:13 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 18:22:16 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 18:23:22 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 18:53:22 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 18:53:22 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 19:02:25 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 19:04:11 --> Severity: Notice  --> Undefined property: stdClass::$status /home/nmhcms/web/cms2.my.na/public_html/application/models/api_model.php 1089
+ERROR - 2023-10-06 19:04:11 --> Severity: Notice  --> Undefined property: stdClass::$status /home/nmhcms/web/cms2.my.na/public_html/application/models/api_model.php 1089
+ERROR - 2023-10-06 19:04:11 --> Severity: Notice  --> Undefined property: stdClass::$status /home/nmhcms/web/cms2.my.na/public_html/application/models/api_model.php 1089
+ERROR - 2023-10-06 19:04:11 --> Severity: Notice  --> Undefined property: stdClass::$status /home/nmhcms/web/cms2.my.na/public_html/application/models/api_model.php 1089
+ERROR - 2023-10-06 19:04:11 --> Severity: Notice  --> Undefined property: stdClass::$status /home/nmhcms/web/cms2.my.na/public_html/application/models/api_model.php 1089
+ERROR - 2023-10-06 19:04:11 --> Severity: Notice  --> Undefined property: stdClass::$status /home/nmhcms/web/cms2.my.na/public_html/application/models/api_model.php 1089
+ERROR - 2023-10-06 19:04:11 --> Severity: Notice  --> Undefined property: stdClass::$status /home/nmhcms/web/cms2.my.na/public_html/application/models/api_model.php 1089
+ERROR - 2023-10-06 19:04:11 --> Severity: Notice  --> Undefined property: stdClass::$status /home/nmhcms/web/cms2.my.na/public_html/application/models/api_model.php 1089
+ERROR - 2023-10-06 19:04:16 --> Severity: Notice  --> Undefined property: stdClass::$status /home/nmhcms/web/cms2.my.na/public_html/application/models/api_model.php 1089
+ERROR - 2023-10-06 19:04:16 --> Severity: Notice  --> Undefined property: stdClass::$status /home/nmhcms/web/cms2.my.na/public_html/application/models/api_model.php 1089
+ERROR - 2023-10-06 19:04:24 --> Severity: Notice  --> Undefined property: stdClass::$status /home/nmhcms/web/cms2.my.na/public_html/application/models/api_model.php 1089
+ERROR - 2023-10-06 19:04:24 --> Severity: Notice  --> Undefined property: stdClass::$status /home/nmhcms/web/cms2.my.na/public_html/application/models/api_model.php 1089
+ERROR - 2023-10-06 19:04:24 --> Severity: Notice  --> Undefined property: stdClass::$status /home/nmhcms/web/cms2.my.na/public_html/application/models/api_model.php 1089
+ERROR - 2023-10-06 19:04:24 --> Severity: Notice  --> Undefined property: stdClass::$status /home/nmhcms/web/cms2.my.na/public_html/application/models/api_model.php 1089
+ERROR - 2023-10-06 19:04:24 --> Severity: Notice  --> Undefined property: stdClass::$status /home/nmhcms/web/cms2.my.na/public_html/application/models/api_model.php 1089
+ERROR - 2023-10-06 19:04:24 --> Severity: Notice  --> Undefined property: stdClass::$status /home/nmhcms/web/cms2.my.na/public_html/application/models/api_model.php 1089
+ERROR - 2023-10-06 19:04:26 --> Severity: Notice  --> Undefined property: stdClass::$status /home/nmhcms/web/cms2.my.na/public_html/application/models/api_model.php 1089
+ERROR - 2023-10-06 19:04:26 --> Severity: Notice  --> Undefined property: stdClass::$status /home/nmhcms/web/cms2.my.na/public_html/application/models/api_model.php 1089
+ERROR - 2023-10-06 19:04:26 --> Severity: Notice  --> Undefined property: stdClass::$status /home/nmhcms/web/cms2.my.na/public_html/application/models/api_model.php 1089
+ERROR - 2023-10-06 19:04:26 --> Severity: Notice  --> Undefined property: stdClass::$status /home/nmhcms/web/cms2.my.na/public_html/application/models/api_model.php 1089
+ERROR - 2023-10-06 19:04:43 --> Severity: Notice  --> Undefined property: stdClass::$status /home/nmhcms/web/cms2.my.na/public_html/application/models/api_model.php 1089
+ERROR - 2023-10-06 19:04:43 --> Severity: Notice  --> Undefined property: stdClass::$status /home/nmhcms/web/cms2.my.na/public_html/application/models/api_model.php 1089
+ERROR - 2023-10-06 19:04:43 --> Severity: Notice  --> Undefined property: stdClass::$status /home/nmhcms/web/cms2.my.na/public_html/application/models/api_model.php 1089
+ERROR - 2023-10-06 19:04:43 --> Severity: Notice  --> Undefined property: stdClass::$status /home/nmhcms/web/cms2.my.na/public_html/application/models/api_model.php 1089
+ERROR - 2023-10-06 19:04:44 --> Severity: Notice  --> Undefined property: stdClass::$status /home/nmhcms/web/cms2.my.na/public_html/application/models/api_model.php 1089
+ERROR - 2023-10-06 19:04:44 --> Severity: Notice  --> Undefined property: stdClass::$status /home/nmhcms/web/cms2.my.na/public_html/application/models/api_model.php 1089
+ERROR - 2023-10-06 19:04:44 --> Severity: Notice  --> Undefined property: stdClass::$status /home/nmhcms/web/cms2.my.na/public_html/application/models/api_model.php 1089
+ERROR - 2023-10-06 19:04:44 --> Severity: Notice  --> Undefined property: stdClass::$status /home/nmhcms/web/cms2.my.na/public_html/application/models/api_model.php 1089
+ERROR - 2023-10-06 19:04:49 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 19:04:55 --> Severity: Notice  --> Undefined property: stdClass::$status /home/nmhcms/web/cms2.my.na/public_html/application/models/api_model.php 1089
+ERROR - 2023-10-06 19:04:55 --> Severity: Notice  --> Undefined property: stdClass::$status /home/nmhcms/web/cms2.my.na/public_html/application/models/api_model.php 1089
+ERROR - 2023-10-06 19:04:55 --> Severity: Notice  --> Undefined property: stdClass::$status /home/nmhcms/web/cms2.my.na/public_html/application/models/api_model.php 1089
+ERROR - 2023-10-06 19:04:55 --> Severity: Notice  --> Undefined property: stdClass::$status /home/nmhcms/web/cms2.my.na/public_html/application/models/api_model.php 1089
+ERROR - 2023-10-06 19:04:55 --> Severity: Notice  --> Undefined property: stdClass::$status /home/nmhcms/web/cms2.my.na/public_html/application/models/api_model.php 1089
+ERROR - 2023-10-06 19:04:55 --> Severity: Notice  --> Undefined property: stdClass::$status /home/nmhcms/web/cms2.my.na/public_html/application/models/api_model.php 1089
+ERROR - 2023-10-06 19:04:55 --> Severity: Notice  --> Undefined property: stdClass::$status /home/nmhcms/web/cms2.my.na/public_html/application/models/api_model.php 1089
+ERROR - 2023-10-06 19:04:55 --> Severity: Notice  --> Undefined property: stdClass::$status /home/nmhcms/web/cms2.my.na/public_html/application/models/api_model.php 1089
+ERROR - 2023-10-06 19:05:17 --> Severity: Notice  --> Undefined property: stdClass::$status /home/nmhcms/web/cms2.my.na/public_html/application/models/api_model.php 1089
+ERROR - 2023-10-06 19:05:17 --> Severity: Notice  --> Undefined property: stdClass::$status /home/nmhcms/web/cms2.my.na/public_html/application/models/api_model.php 1089
+ERROR - 2023-10-06 19:05:57 --> Severity: Notice  --> Undefined property: stdClass::$status /home/nmhcms/web/cms2.my.na/public_html/application/models/api_model.php 1089
+ERROR - 2023-10-06 19:05:57 --> Severity: Notice  --> Undefined property: stdClass::$status /home/nmhcms/web/cms2.my.na/public_html/application/models/api_model.php 1089
+ERROR - 2023-10-06 19:05:57 --> Severity: Notice  --> Undefined property: stdClass::$status /home/nmhcms/web/cms2.my.na/public_html/application/models/api_model.php 1089
+ERROR - 2023-10-06 19:05:57 --> Severity: Notice  --> Undefined property: stdClass::$status /home/nmhcms/web/cms2.my.na/public_html/application/models/api_model.php 1089
+ERROR - 2023-10-06 19:05:58 --> Severity: Notice  --> Undefined property: stdClass::$status /home/nmhcms/web/cms2.my.na/public_html/application/models/api_model.php 1089
+ERROR - 2023-10-06 19:05:58 --> Severity: Notice  --> Undefined property: stdClass::$status /home/nmhcms/web/cms2.my.na/public_html/application/models/api_model.php 1089
+ERROR - 2023-10-06 19:05:58 --> Severity: Notice  --> Undefined property: stdClass::$status /home/nmhcms/web/cms2.my.na/public_html/application/models/api_model.php 1089
+ERROR - 2023-10-06 19:05:58 --> Severity: Notice  --> Undefined property: stdClass::$status /home/nmhcms/web/cms2.my.na/public_html/application/models/api_model.php 1089
+ERROR - 2023-10-06 19:08:47 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 19:08:49 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 19:37:29 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 19:38:34 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 19:45:55 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 20:06:04 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 20:23:36 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 20:29:49 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 20:30:09 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 20:36:20 --> 404 Page Not Found --> wp-includes
+ERROR - 2023-10-06 21:03:05 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 21:06:31 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 21:06:37 --> 404 Page Not Found --> alfa-rex.php7
+ERROR - 2023-10-06 21:07:15 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 21:08:44 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 21:19:00 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 21:29:15 --> 404 Page Not Found --> alfanew.php
+ERROR - 2023-10-06 21:43:45 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 21:45:13 --> 404 Page Not Found --> wp-content
+ERROR - 2023-10-06 21:53:47 --> 404 Page Not Found --> wp-admin
+ERROR - 2023-10-06 22:12:28 --> 404 Page Not Found --> wp-p.php7
+ERROR - 2023-10-06 22:19:14 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 22:23:10 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 22:27:52 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 22:28:00 --> 404 Page Not Found --> wp-admin
+ERROR - 2023-10-06 22:44:00 --> 404 Page Not Found --> wp-includes
+ERROR - 2023-10-06 22:44:13 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 22:54:31 --> 404 Page Not Found --> wp-content
+ERROR - 2023-10-06 23:12:47 --> 404 Page Not Found --> yanz.php
+ERROR - 2023-10-06 23:19:20 --> 404 Page Not Found --> ajax.googleapis.com
+ERROR - 2023-10-06 23:19:20 --> 404 Page Not Found --> cms2.my.na
+ERROR - 2023-10-06 23:19:20 --> 404 Page Not Found --> ajax.googleapis.com
+ERROR - 2023-10-06 23:19:20 --> 404 Page Not Found --> html5shim.googlecode.com
+ERROR - 2023-10-06 23:23:03 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 23:24:55 --> 404 Page Not Found --> wp-admin
+ERROR - 2023-10-06 23:26:23 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 23:26:24 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 23:31:23 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 23:41:59 --> 404 Page Not Found --> assets
+ERROR - 2023-10-06 23:50:43 --> 404 Page Not Found --> wp-includes
+ERROR - 2023-10-06 23:50:43 --> 404 Page Not Found --> xmlrpc.php
+ERROR - 2023-10-06 23:50:43 --> 404 Page Not Found --> blog
+ERROR - 2023-10-06 23:50:44 --> 404 Page Not Found --> web
+ERROR - 2023-10-06 23:50:44 --> 404 Page Not Found --> wordpress
+ERROR - 2023-10-06 23:50:44 --> 404 Page Not Found --> website
+ERROR - 2023-10-06 23:50:44 --> 404 Page Not Found --> wp
+ERROR - 2023-10-06 23:50:53 --> 404 Page Not Found --> 2020
+ERROR - 2023-10-06 23:50:53 --> 404 Page Not Found --> 2019
+ERROR - 2023-10-06 23:50:54 --> 404 Page Not Found --> shop
+ERROR - 2023-10-06 23:50:54 --> 404 Page Not Found --> wp1
+ERROR - 2023-10-06 23:50:54 --> 404 Page Not Found --> test/wp-includes
+ERROR - 2023-10-06 23:50:54 --> 404 Page Not Found --> wp2
+ERROR - 2023-10-06 23:50:55 --> 404 Page Not Found --> site
+ERROR - 2023-10-06 23:50:55 --> 404 Page Not Found --> cms
+ERROR - 2023-10-06 23:50:55 --> 404 Page Not Found --> sito
+ERROR - 2023-10-06 23:56:10 --> 404 Page Not Found --> assets
