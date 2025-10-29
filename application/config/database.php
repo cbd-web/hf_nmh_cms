@@ -55,7 +55,7 @@ if ($_SERVER['HTTP_HOST'] == 'housefinder-cms.test') {
     $username = 'root';
     $database = 'nmh_cms';
 } else {
-    $host = 'localhost';
+    $host = '127.0.0.1';
     $password = '971DACB1B4';
     $username = 'hf_user';
     $database = 'myna_cms';
