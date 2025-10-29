@@ -20,7 +20,7 @@ header("P3P: policyref=\"https://www.my.na/policy.xml\", CP=\"CURa ADMa DEVa CON
  * NOTE: If you change these, also change the error_reporting() code below
  *
  */
-define('ENVIRONMENT', 'production');
+define('ENVIRONMENT', 'development');
 /*
  *---------------------------------------------------------------
  * ERROR REPORTING
