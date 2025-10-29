@@ -11,7 +11,7 @@
 */
 define('BASE_CMS', '/admin_src/');
 define('BASE_URL', $_SERVER["DOCUMENT_ROOT"] .'/');
-define('CMS_URL',  'http://housefinder-cms.test/');
+define('CMS_URL',  'http://152.53.61.163:8084');
 define('S3_URL',  'https://cdn.nmh.com.na:2083/S3Server/mynamibia-eu/cms/');
 /*
 |--------------------------------------------------------------------------
