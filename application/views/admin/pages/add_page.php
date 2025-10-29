@@ -70,7 +70,7 @@
                                             </div>
                                  		  </div>
                                           
-                                           <?php $this->admin_model->get_page_templates($page_template); ?> 
+                                           <?php $this->admin_model->get_page_templates(); ?> 
                                            
                                           <div class="control-group" id="redactor_content_msg">
                                                 <label class="control-label" for="redactor_content">Page Body:</label>
