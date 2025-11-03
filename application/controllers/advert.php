@@ -3,7 +3,7 @@
 class Advert extends CI_Controller {
 
 
-	 function advert()
+	 function __construct()
 	{
 		parent::__construct();
 		$this->load->model('advert_model');
