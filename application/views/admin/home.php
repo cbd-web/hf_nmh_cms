@@ -84,11 +84,7 @@
 
 				</div>
 				<div class="span6">
-					    <span class="label label-success pull-right" style="position: absolute; right:-5px;margin-top:-10px">NEW</span>
-						<div id="reportrange" class="pull-right btn">
-							<i class="icon-calendar"></i>
-							<span><?php echo date("M j, Y", strtotime('-30 day')); ?> - <?php echo date("M j, Y"); ?></span> <b class="caret""></b>
-						</div>
+
 				</div>
 
 			</div>

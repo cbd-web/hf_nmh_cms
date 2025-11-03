@@ -7,10 +7,7 @@ if($role == 'admin' || $role == 'editor'){  ?>
 				<div class="nav-collapse sidebar-nav">
 					<ul class="nav nav-tabs nav-stacked main-menu">
 						<li><a href="<?php echo site_url('/');?>admin/home"><i class="icon-home icon-white"></i><span class="hidden-tablet"> Dashboard </span></a></li>
-						<li><a href="<?php echo site_url('/');?>admin/my_namibia/"><i class="fa-icon-group icon-white"></i><span class="hidden-tablet"> My.na / HAN</span></a></li>
-                        
                         <?php echo $this->admin_model->get_main_nav();?>
-						<li><a href="<?php echo site_url('/');?>branch/branches/"><i class="fa-icon-sitemap icon-white"></i><span class="hidden-tablet"> Branches</span></a></li>
                         <li>
 							<a class="dropmenu" href="#"><i class="icon-picture icon-white"></i><span class="hidden-tablet"> Images</span></a>
 							<ul>
