@@ -129,33 +129,8 @@
 	<script type="text/javascript">
 		$(document).ready(function(){
 
-			$('#reportrange').daterangepicker({
-
-					ranges: {
-						'Last 7 Days': [moment().subtract('days', 6), moment()],
-						'Last 30 Days': [moment().subtract('days', 29), moment()],
-						'This Month': [moment().startOf('month'), moment().endOf('month')],
-						'Last Month': [moment().subtract('month', 1).startOf('month'), moment().subtract('month', 1).endOf('month')]
-					},
-					startDate: moment().subtract('days', 29),
-					endDate: moment()
-				},
-				function(start, end)
-				{
-					$('#reportrange span').html(start.format('MMMM D, YYYY') + ' - ' + end.format('MMMM D, YYYY'));
-			});
-
-			$('#reportrange').on('apply.daterangepicker', function(ev, picker) {
-				console.log(picker.startDate.format('YYYY-MM-DD'));
-				console.log(picker.endDate.format('YYYY-MM-DD'));
-
-				load_stats(picker.startDate.format('YYYY-MM-DD'), picker.endDate.format('YYYY-MM-DD'))
-			});
 
 		});
-		
-
 	</script>
-    
 </body>
 </html>
