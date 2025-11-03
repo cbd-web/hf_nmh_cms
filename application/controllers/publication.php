@@ -6,7 +6,7 @@ class Publication extends CI_Controller {
 	 * ihmsMedia CMS
 	 * Roland Ihms
 	 */
-	function publication()
+	function __construct()
 	{
 		parent::__construct();
 		//error_reporting(E_ALL ^ (E_NOTICE | E_WARNING));
@@ -203,7 +203,7 @@ class Publication extends CI_Controller {
 			$this->session->set_flashdata('msg','Publication added successfully');
 			$data['basicmsg'] = 'Publication has been added successfully';
 			echo '<div class="alert alert-success">
-         			<button type="button" class="close" data-dismiss="alert">×</button>
+         			<button type="button" class="close" data-dismiss="alert">ï¿½</button>
             		'.$data['basicmsg'].'</div>
 					<script type="text/javascript">
 					window.location = "'.site_url('/').'publication/update_publication/'.$pubid.'/";
@@ -213,7 +213,7 @@ class Publication extends CI_Controller {
 			$data['id'] = $this->session->userdata('id');
 			$data['error'] = $error;
 			echo '<div class="alert alert-error">
-         			<button type="button" class="close" data-dismiss="alert">×</button>
+         			<button type="button" class="close" data-dismiss="alert">ï¿½</button>
             		'.$data['error'].'</div>';
 			$this->output->set_header("HTTP/1.0 200 OK");
 
