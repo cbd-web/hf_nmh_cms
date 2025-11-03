@@ -5656,7 +5656,7 @@ sustainable business growth and regulatory compliance.'
 	//+++++++++++++++++++++++++++
 	//GET POST TEMPLATES
 	//++++++++++++++++++++++++++
-	public function get_post_templates($post_template)
+	public function get_post_templates($post_template = '')
 	{
 		$bus_id = $this->session->userdata('bus_id');
 		$query = $this->db->where('bus_id', $bus_id);
