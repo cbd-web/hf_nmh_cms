@@ -86,7 +86,7 @@
                                         </div>
                                     </div>
 
-                                    <?php $this->admin_model->get_post_templates($post_template);?>
+                                    <?php $this->admin_model->get_post_templates();?>
                                     <!-- 
 								 <div class="control-group">
                                                     <label class="control-label" for="metaD">Meta Description:</label>
