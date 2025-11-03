@@ -8,129 +8,7 @@ class Admin_model extends CI_Model
 		$this->load->library('encrypt');
 	}
 
-	public function add_people()
-	{
-
-		$people = [
-			[
-				'name' => 'Zaa Nashandi',
-				'position' => 'PAAB Head of Secretariat',
-				'image' => base_url('assets/images/team/zaa_nashandi.jpg'),
-				'bio' => '.....'
-			],
-			[
-				'name' => 'Leilani Riddles',
-				'position' => 'Executive Assistant',
-				'image' => base_url('assets/images/team/leilanie.jpg'),
-				'bio' => 'Leilani started her employment with PAAB in April 2017, in the position of Executive Assistant to the Head of
-Secretariat. She is currently pursuing the LLB Honours degree through UNAM, and she holds a National Diploma
-in Marketing from the Polytechnic of Namibia (now NUST). Her professional career started in 2003 and she has
-held various positions in tourism, sales, marketing, program coordination and executive assistance, in both the
-NGO and corporate environments'
-			],
-			[
-				'name' => 'Olivia PS Abiatal',
-				'position' => 'Manager: Standards',
-				'image' => base_url('assets/images/team/olivia.jpg'),
-				'bio' => '...'
-			],
-			[
-				'name' => 'Monica Kaisi-Festus',
-				'position' => 'Manager: Membership and Training',
-				'image' => base_url('assets/images/team/monica.jpg'),
-				'bio' => 'Monica is a Chartered Accountant through the Institute of Chartered Accountants in Zimbabwe, and a PAAB registered Assessor. She started her career in 2010 and has held positions in accounting and audit in both Zimbabwe and Namibia. Her employment with PAAB started in May 2020 and she holds the position of Manager: Membership & Training.'
-			],
-			[
-				'name' => 'Mbavanga Tjiueza.',
-				'position' => 'Manager: Investigations',
-				'image' => base_url('assets/images/team/mbavanga.jpg'),
-				'bio' => 'Ms. Mbavanga Tjiueza is an accomplished Investigator at the Public Accountants and Auditors Board, bringing
-over 12 years of extensive experience in the accounting profession. She is a seasoned chartered accountant with a
-robust background in banking, insurance, financial services, and audit industries, having thrived in diverse
-management environments.<br><br>
-Ms. Tjiueza holds an Honours degree in Accounting and a Masters in Business Management and Administration,
-reflecting her commitment to continuous professional development and academic excellence. She is a
-distinguished member of both the Institute of Chartered Accountants of Namibia and the South African Institute
-of Chartered Accountants, showcasing her dedication to upholding the highest standards of ethical practice and
-professional integrity in the accounting field.
-<br><br>
-With her comprehensive expertise and leadership acumen, Ms. Tjiueza is adept at navigating complex financial
-landscapes and driving strategic initiatives to optimize organizational performance. Her analytical prowess and
-meticulous attention to detail underscore her ability to deliver impactful solutions and insights that drive
-sustainable business growth and regulatory compliance.'
-			],
-			[
-				'name' => 'Martha Shiimi',
-				'position' => 'Manager: Finance & Administration',
-				'image' => base_url('assets/images/team/martha.jpg'),
-				'bio' => 'Martha holds a Bachelors Degree in Business Administration from the Polytechnic of Namibia. She started her career in 2009 and has held positions as Assistant Financial Officer and Finance Coordinator. Her employment with PAAB started in March 2017 and she holds the position of Manager: Finance & Administration.'
-			],
-			[
-				'name' => 'Elijah Mafanire',
-				'position' => 'Manager: Inspections',
-				'image' => base_url('assets/images/team/elijah.jpg'),
-				'bio' => 'Elijah is a qualified Chartered Accountant through the Institute of Chartered Accountants in Zimbabwe and has more than 7 years of experience in the field of auditing. His employment with PAAB started in July 2021 and he holds the position of Manager: Inspections.'
-			],
-			[
-				'name' => 'Naveuye Hamutumua',
-				'position' => 'Administrative Officer',
-				'image' => base_url('assets/images/team/naveuye.jpg'),
-				'bio' => 'Nave holds a Diploma in Business Management from Business Management Training College of Southern Africa. She has 15 years experience in Administration and Finance from various organisations. Her employment with PAAB started in July 2015 and she holds the position of Administrative Officer.'
-			],
-			[
-				'name' => 'Georgina van Rooyen',
-				'position' => 'Finance Clerk',
-				'image' => base_url('assets/images/team/georgina.jpg'),
-				'bio' => 'Georgina holds a Diploma in Finance & Audit. Her career path started in 2014 in the fields of sales, administration, and finance. Her employment with PAAB started in July 2020 and she holds the position of Finance Clerk.'
-			],
-			[
-				'name' => 'Ebenesia Tjitunga',
-				'position' => 'Cleaner',
-				'image' => base_url('assets/images/team/ebenesia.jpg'),
-				'bio' => 'Ebenesia was the newly independent PAABs first employee in 2014, along with the then Head of Secretariat. She holds the position of Cleaner and also assists with general admin-related tasks.'
-			],
-			[
-				'name' => 'Willem Simeon',
-				'position' => '....',
-				'image' => base_url('assets/images/team/simeon.jpg'),
-				'bio' => '...'
-			],
-			[
-				'name' => 'Julia Nghishekwa',
-				'position' => '....',
-				'image' => base_url('assets/images/team/julia.jpg'),
-				'bio' => '...'
-			]
-		];
-
-
-
-		foreach ($people as $key => $person) {
-			$names = explode(' ', $person['name'], 3);
-
-
-			$data['name'] = $names[0];
-			$data['lname'] = $names[1];
-
-			$data['position'] = $person['position'];
-			$data['education'] = $person['bio'];
-			$data['status'] = 'live';
-			$data['bus_id'] = 15411;
-
-
-			// if ($this->db->insert('people', $data)) {
-			echo 'Done with ' . $data['name'] . '<br>';
-			// } else {
-			echo 'Failed with ' . $data['name'] . '<br>';
-			// }
-
-			// echo $person['name'] . '<br>';
-			// echo $person['name'] . '<br>';
-			echo '<br><br>';
-		}
-		echo 123;
-
-	}
+	
 	//+++++++++++++++++++++++++++
 	//GET NAVIGATION
 	//++++++++++++++++++++++++++
@@ -4855,6 +4733,12 @@ sustainable business growth and regulatory compliance.'
 			//$this->s3_model->upload_s3('assets/images/' . $file);
 
 			$cdn = $this->UploudToNMHS3(base_url('assets/images/' . $file), 'mynamibia-eu/cms/assets/images', $file, false);
+
+			// Delete local file after successful S3 upload
+			$local_file_path = '/var/www/cms/assets/images/' . $file;
+			if (file_exists($local_file_path)) {
+				unlink($local_file_path);
+			}
 
 			$file = str_replace('https://cdn.nmh.com.na:2083/S3Server/mynamibia-eu/cms/assets/images/', '', $cdn->filePath);
 
