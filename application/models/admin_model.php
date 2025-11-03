@@ -214,7 +214,7 @@ sustainable business growth and regulatory compliance.'
 		$bus_id = $this->session->userdata('bus_id');
 		$slq = ' WHERE menus.bus_id = ' . $bus_id . ' ';
 
-		$sql = "SELECT menus.*, IFNULL(group_concat(settings.title), '') as pubs,settings.url from menus
+		$sql = "SELECT menus.*, IFNULL(group_concat(settings.title), '') as pubs, ANY_VALUE(settings.url) as url from menus
 
 										LEFT JOIN settings ON menus.bus_id = settings.bus_id
 										" . $slq . "
