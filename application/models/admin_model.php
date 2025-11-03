@@ -2,9 +2,9 @@
 class Admin_model extends CI_Model
 {
 
-	function admin_model()
+	function __construct()
 	{
-		//parent::CI_model();
+		parent::__construct();
 		$this->load->library('encrypt');
 	}
 

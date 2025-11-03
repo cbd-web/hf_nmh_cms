@@ -4797,11 +4797,11 @@ class Admin extends CI_Controller
 
 		if ($slug == '') {
 
-			$slug = $this->clean_slug_str($title, $replace = array(), $delimiter = '-', 'pages', 'add');
+			$slug = $this->clean_slug_str($title, 'pages', array(), '-', 'add');
 
 		} else {
 
-			$slug = $this->clean_url_str($slug, $replace = array(), $delimiter = '-', 'pages', 'add');
+			$slug = $this->clean_slug_str($slug, 'pages', array(), '-', 'add');
 
 		}
 
@@ -5649,11 +5649,11 @@ class Admin extends CI_Controller
 
 		if ($slug == '') {
 
-			$slug = $this->clean_slug_str($title, $replace = array(), $delimiter = '-', 'posts');
+			$slug = $this->clean_slug_str($title, 'posts', array(), '-', 'add');
 
 		} else {
 
-			$slug = $this->clean_slug_str($slug, $replace = array(), $delimiter = '-', 'posts');
+			$slug = $this->clean_slug_str($slug, 'posts', array(), '-', 'add');
 
 		}
 

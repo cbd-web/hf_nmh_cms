@@ -3,9 +3,9 @@
 class Email_model extends CI_Model
 {
 
-	function email_model()
+	function __construct()
 	{
-		//parent::CI_model();
+		parent::__construct();
 		$this->load->library('email');
 	}
 
