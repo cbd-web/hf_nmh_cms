@@ -2210,7 +2210,7 @@ class Admin extends CI_Controller
 
 		if ($slug == '') {
 
-			$slug = $this->clean_slug_str($title, $replace = array(), $delimiter = '-', 'pages', 'add');
+			$slug = $this->clean_slug_str($title, 'pages', array(), '-', 'add');
 
 		} else {
 
@@ -5553,11 +5553,11 @@ class Admin extends CI_Controller
 
 		if ($slug == '') {
 
-			$slug = $this->clean_slug_str($title, $replace = array(), $delimiter = '-', 'posts', 'add');
+			$slug = $this->clean_slug_str($title, 'posts', array(), '-', 'add');
 
 		} else {
 
-			$slug = $this->clean_slug_str($slug, $replace = array(), $delimiter = '-', 'posts', 'add');
+			$slug = $this->clean_slug_str($slug, 'posts', array(), '-', 'add');
 
 		}
 
@@ -9645,6 +9645,7 @@ class Admin extends CI_Controller
 
 
 	}
+	
 	function ai_collaboration()
 	{
 		$type = strip_tags($this->input->post('type'));
