@@ -4809,7 +4809,7 @@ sustainable business growth and regulatory compliance.'
 		$id = $this->input->post('type_id', TRUE);
 		$type = $this->input->post('type', TRUE);
 		//upload file
-		$config['upload_path'] = BASE_URL . 'assets/images/';
+		$config['upload_path'] = '/var/www/cms/assets/images/';
 		$config['allowed_types'] = 'gif|jpg|jpeg|png';
 		$config['max_size'] = '12000';
 		$config['max_width'] = '8324';
@@ -4887,6 +4887,7 @@ sustainable business growth and regulatory compliance.'
 					  </script>";
 		}
 	}
+
 	function UploudToNMHS3($fileURL, $S3Dir, $filename_Plus_Extension)
 	{
 		$query = http_build_query(array(
