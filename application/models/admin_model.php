@@ -1830,6 +1830,12 @@ class Admin_model extends CI_Model
 
 			$cdn = $this->UploudToNMHS3(base_url($s3_dir . $fileName), 'mynamibia-eu/cms/' . $s3_dir, $fileName, 'No');
 
+			// Delete local file after successful S3 upload
+			$local_file_path = $targetDir . DIRECTORY_SEPARATOR . $fileName;
+			if (file_exists($local_file_path)) {
+				unlink($local_file_path);
+			}
+
 			$fileName = str_replace('https://cdn.nmh.com.na:2083/S3Server/mynamibia-eu/cms/' . $s3_dir, '', $cdn->filePath);
 			//Insert DB
 			$this->insert_project_docs($project_id, $fileName, $oname, $document, $cat);
