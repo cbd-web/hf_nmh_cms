@@ -88,45 +88,13 @@
 						<div id="reportrange" class="pull-right btn">
 							<i class="icon-calendar"></i>
 							<span><?php echo date("M j, Y", strtotime('-30 day')); ?> - <?php echo date("M j, Y"); ?></span> <b class="caret""></b>
-
 						</div>
-
-
 				</div>
 
 			</div>
 
-
 			<hr>
 			
-			<!--
-			<div class="row-fluid loading_img" id="stat_overview">		
-				
-			<?php //$this->google_model->load_overview();?>
-					
-			</div>
-			
-			<hr>
-			
-            <div class="row-fluid loading_img" id="stat_overview2">		
-				
-			<?php //$this->google_model->traffic_graph();
-			
-				  //$this->google_model->organic_keywords();
-			?>
-					
-			</div>
-			
-			<hr>
-
-			<div class="row-fluid loading_img" id="stat_overview3">
-
-
-
-
-			</div>
-
-			<hr> -->
            
 			<div class="sortable row-fluid">
 				
@@ -138,45 +106,10 @@
 			</div>
 			
 			<hr>
-			
-			
-			
-			<div class="row-fluid">
-				
-				<div class="box span8" onTablet="span12" onDesktop="span8">
-					<div class="box-header">
-						<h2><i class="icon-calendar"></i><span class="break"></span>Calendar</h2>
-					</div>
-					<div class="box-content">
-                      <div id="cal_holder">
-                          <div id="main_calendar"></div>
-                      </div>
-                      <div class="clearfix"></div>
-					</div>	
-				</div><!--/span-->
-				
-			  	<div class="box span4" onTablet="span8" onDesktop="span8">
-					<div class="box-header">
-						<h2><i class="icon-calendar"></i><span class="break"></span>Upcoming Events</h2>
-					</div>
-					<div class="box-content">
-                      <div id="upcoming_events">
-                          
-                      </div>
-                      <div class="clearfix"></div>
-					</div>	
-				</div><!--/span-->
-
-			</div>
-				
-			<hr>
 
 			<div class="row-fluid">
 
-			   <?php $this->admin_model->get_system_logs();
-          
-              
-              ?>	
+			   <?php $this->admin_model->get_system_logs(); ?>	
 				
 			</div>
 				
@@ -186,36 +119,15 @@
 			<!-- end: Content -->
 			</div><!--/#content.span10-->
 		</div><!--/fluid-row-->
-				
-		<div class="modal hide fade" id="myModal">
-			<div class="modal-header">
-				<button type="button" class="close" data-dismiss="modal">×</button>
-				<h3>Settings</h3>
-			</div>
-			<div class="modal-body">
-				<p>Here settings can be configured...</p>
-			</div>
-			<div class="modal-footer">
-				<a href="#" class="btn" data-dismiss="modal">Close</a>
-				<a href="#" class="btn btn-primary">Save changes</a>
-			</div>
-		</div>
 		
-        <div class="clearfix"></div>
-        <div id="cal_script"></div>        
+        <div class="clearfix"></div>    
 	
 	<?php $this->load->view('admin/inc/footer');?>
     </div><!--/.fluid-container-->
 	<script src="<?php echo base_url('/')?>admin_src/js/vectormap/jquery-jvectormap-1.2.2.min.js"></script>
 	<script src="<?php echo base_url('/')?>admin_src/js/vectormap/jquery-jvectormap-world-mill-en.js"></script>
-	<script type="text/javascript" src="<?php echo base_url('/')?>admin_src/bootstrap-daterangepicker-master/moment.min.js"></script>
-	<script type="text/javascript" src="<?php echo base_url('/')?>admin_src/bootstrap-daterangepicker-master/daterangepicker.js"></script>
 	<script type="text/javascript">
 		$(document).ready(function(){
-
-			load_stats('','');
-			setTimeout(load_calendar, 2000);
-
 
 			$('#reportrange').daterangepicker({
 
@@ -242,36 +154,6 @@
 
 		});
 		
-		function load_calendar(){
-			
-		
-	       $.get('<?php echo site_url('/'). 'admin/ajax_load_calendar/';?>', function(data) {
-			  $('#cal_script').html(data);
-			  
-			});
-		}
-
-
-		function load_stats(start, end){
-
-			$('#stat_overview').html('').addClass('loading_img');
-			$.get('<?php echo site_url('/'). 'admin/ajax_load_home/';?>'+start+'/'+end, function(data) {
-				$('#stat_overview').html(data).removeClass('loading_img');
-
-			});
-			$('#stat_overview2').html('').addClass('loading_img');
-			$.get('<?php echo site_url('/'). 'admin/ajax_load_home2/';?>'+start+'/'+end, function(data) {
-				$('#stat_overview2').html(data).removeClass('loading_img');
-
-			});
-
-			$('#stat_overview3').html('').addClass('loading_img');
-			$.get('<?php echo site_url('/'). 'admin/location_map/';?>'+start+'/'+end, function(data) {
-				$('#stat_overview3').html(data).removeClass('loading_img');
-
-			});
-
-		}
 
 	</script>
     

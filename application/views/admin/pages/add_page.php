@@ -59,10 +59,9 @@
                                                     <input type="text" class="span6" id="slug" name="slug" placeholder="Page URL Slug eg: /about-us" value="">  
                                             </div>
                                           </div>
-                            										  
-											<?php print $this->admin_model->parent_page_list();?>									  
-                            
-							
+
+                                          <?php print $this->admin_model->parent_page_list();?>
+
                                           <div class="control-group">
                                             <label class="control-label" for="sequence">Sequence:</label>
                                             <div class="controls">
@@ -70,7 +69,7 @@
                                             </div>
                                  		  </div>
                                           
-                                           <?php $this->admin_model->get_page_templates(); ?> 
+                                          <?php $this->admin_model->get_page_templates(); ?> 
                                            
                                           <div class="control-group" id="redactor_content_msg">
                                                 <label class="control-label" for="redactor_content">Page Body:</label>
@@ -124,22 +123,12 @@
 		             	</p>                  
                   </div>
 				</div>
-               
-                
-                
 			</div>
-			
 			<hr>
 			
-			<div class="row-fluid">
-				
-				
-				
-			</div>
+			<div class="row-fluid"></div>
 			
 			<hr>
-			
-
 			
 			<!-- end: Content -->
 			</div><!--/#content.span10-->
