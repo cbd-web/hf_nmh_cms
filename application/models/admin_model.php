@@ -1861,7 +1861,6 @@ class Admin_model extends CI_Model
 
 		if ($document == 'project_docs') {
 
-
 			//GET DOcumnet sequence
 			$this->db->where('project_id', $project_id);
 			$query = $this->db->get('project_documents');
