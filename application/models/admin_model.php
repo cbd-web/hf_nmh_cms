@@ -1721,18 +1721,18 @@ class Admin_model extends CI_Model
 	{
 		if ($document == 'sliders') {
 
-			$targetDir = BASE_URL . 'assets/images/';
+			$targetDir = '/var/www/cms/assets/images/';
 			$s3_dir = 'assets/images/';
 		} elseif ($document == 'documents') {
 
-			$targetDir = BASE_URL . 'assets/documents/';
+			$targetDir = '/var/www/cms/assets/documents/';
 			$s3_dir = 'assets/documents/';
 		} elseif ($document == 'project_docs') {
 
-			$targetDir = BASE_URL . 'assets/documents/';
+			$targetDir = '/var/www/cms/assets/documents/';
 			$s3_dir = 'assets/documents/';
 		} else {
-			$targetDir = BASE_URL . 'assets/documents/';
+			$targetDir = '/var/www/cms/assets/documents/';
 			$s3_dir = 'assets/documents/';
 		}
 
