@@ -50,15 +50,15 @@ $active_group = 'default';
 $active_record = TRUE;
 
 if ($_SERVER['HTTP_HOST'] == 'housefinder-cms.test') {
-    $host = 'localhost';
+    $host = '';
     $password = '';
-    $username = 'root';
-    $database = 'nmh_cms';
+    $username = '';
+    $database = '';
 } else {
     $host = '127.0.0.1';
-    $password = '971DACB1B4';
-    $username = 'hf_user';
-    $database = 'myna_cms';
+    $password = '';
+    $username = '';
+    $database = '';
 }
 
 $db['default']['hostname'] = $host;
