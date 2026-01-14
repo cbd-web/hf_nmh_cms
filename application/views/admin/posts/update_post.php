@@ -104,6 +104,18 @@
                                         </div>
                                     </div>
 
+                                    <div class="control-group">
+                                        <label class="control-label" for="title">Sub Heading</label>
+                                        <div class="controls">
+                                            <input type="text" class="span6" id="sub_heading" name="sub_heading"
+                                                placeholder="Post Sub Heading" value="<?php if (isset($sub_heading)) {
+                                                    echo $sub_heading;
+                                                } ?>">
+                                            <span class="help-block" style="font-size:11px">Optional, give your post a
+                                                sub heading (h2)</span>
+                                        </div>
+                                    </div>                                    
+
                                     <?php echo $this->admin_model->get_post_lang_option_selected($language); ?>
 
                                     <div class="control-group">

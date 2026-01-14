@@ -5639,6 +5639,7 @@ class Admin extends CI_Controller
 		$comments = $this->input->post('comments', TRUE);
 		$body = html_entity_decode(str_replace('&nbsp;', ' ', $this->input->post('content', FALSE)));
 		$heading = $this->input->post('heading', TRUE);
+		$sub_heading = $this->input->post('sub_heading', TRUE);
 		$metaT = $this->input->post('metaT', TRUE);
 		$metaD = $this->input->post('metaD', TRUE);
 		$metaK = $this->input->post('metaK', TRUE);
@@ -5681,6 +5682,7 @@ class Admin extends CI_Controller
 			'status' => strtolower($status),
 			'comments' => strtolower($comments),
 			'heading' => $heading,
+			'sub_heading' => $sub_heading,
 			'language' => $language,
 			'body' => $body,
 			'metaD' => $metaD,
