@@ -1830,8 +1830,15 @@ class Admin_model extends CI_Model
 
 			$cdn = $this->UploudToNMHS3(base_url($s3_dir . $fileName), 'mynamibia-eu/cms/' . $s3_dir, $fileName, 'No');
 
-			// Delete local file after successful S3 upload
 			$local_file_path = $targetDir . DIRECTORY_SEPARATOR . $fileName;
+
+			// Check if S3 upload was successful
+			if (isset($cdn->error) && $cdn->error === true) {
+				// Upload failed - keep local file and return error
+				die('{"jsonrpc" : "2.0", "error" : {"code": 104, "message": "' . addslashes($cdn->message) . '"}, "id" : "id"}');
+			}
+
+			// Delete local file only after successful S3 upload
 			if (file_exists($local_file_path)) {
 				unlink($local_file_path);
 			}
@@ -4786,14 +4793,52 @@ class Admin_model extends CI_Model
 			'SecretKey' => 'NMHServer123FilesAKIA44MUTREB73NBQLK7'
 		));
 
-		$ch = curl_init('https://cdn.nmh.com.na:2083/api/Upload' . '?' . $query);
-		curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
-		curl_setopt($ch, CURLOPT_HEADER, false);
-		curl_setopt($ch, CURLOPT_POST, 1);
-		curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, 0);
-		curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, 0);
-		$response = curl_exec($ch);
-		return json_decode($response);
+		$maxRetries = 3;
+		$retryDelay = 2; // seconds
+		$response = null;
+		$lastError = '';
+
+		for ($attempt = 1; $attempt <= $maxRetries; $attempt++) {
+			$ch = curl_init('https://cdn.nmh.com.na:2083/api/Upload' . '?' . $query);
+			curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+			curl_setopt($ch, CURLOPT_HEADER, false);
+			curl_setopt($ch, CURLOPT_POST, 1);
+			curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, 0);
+			curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, 0);
+			curl_setopt($ch, CURLOPT_TIMEOUT, 120);
+			curl_setopt($ch, CURLOPT_CONNECTTIMEOUT, 30);
+			curl_setopt($ch, CURLOPT_HTTP_VERSION, CURL_HTTP_VERSION_1_1);
+			curl_setopt($ch, CURLOPT_FRESH_CONNECT, true);
+			
+			$response = curl_exec($ch);
+			$httpCode = curl_getinfo($ch, CURLINFO_HTTP_CODE);
+			$curlError = curl_errno($ch) ? curl_error($ch) : '';
+			curl_close($ch);
+
+			// Check if successful
+			if (!empty($response) && empty($curlError) && $httpCode >= 200 && $httpCode < 300) {
+				$decoded = json_decode($response);
+				if ($decoded && isset($decoded->filePath)) {
+					return $decoded; // Success
+				}
+			}
+
+			$lastError = $curlError ?: "HTTP $httpCode - Empty or invalid response";
+
+			// Wait before retry (exponential backoff)
+			if ($attempt < $maxRetries) {
+				sleep($retryDelay * $attempt);
+			}
+		}
+
+		// All retries failed - log and return error object
+		log_message('error', "S3 Upload failed after $maxRetries attempts | File: $filename_Plus_Extension | Error: $lastError");
+		
+		$errorResponse = new stdClass();
+		$errorResponse->error = true;
+		$errorResponse->message = "Upload failed after $maxRetries attempts: $lastError";
+		$errorResponse->filePath = '';
+		return $errorResponse;
 	}
 
 	//+++++++++++++++++++++++++++

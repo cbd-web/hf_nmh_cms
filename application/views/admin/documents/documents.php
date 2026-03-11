@@ -153,9 +153,6 @@
 		<?php $this->load->view('admin/inc/footer');?>
     </div><!--/.fluid-container-->
     
-        
-    <!-- Third party script for BrowserPlus runtime (Google Gears included in Gears runtime now) -->
-    <script type="text/javascript" src="http://bp.yahooapis.com/2.4.21/browserplus-min.js"></script>
     
     <!-- Load plupload and all it's runtimes and finally the jQuery queue widget -->
     <script type="text/javascript" src="<?php echo base_url('/')?>plupload/js/plupload.full.js"></script>
