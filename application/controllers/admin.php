@@ -5650,11 +5650,11 @@ class Admin extends CI_Controller
 
 		if ($slug == '') {
 
-			$slug = $this->clean_slug_str($title, 'posts', array(), '-', 'add');
+			$slug = $this->clean_slug_str($title, 'posts', array(), '-', 'update');
 
 		} else {
 
-			$slug = $this->clean_slug_str($slug, 'posts', array(), '-', 'add');
+			$slug = $this->clean_slug_str($slug, 'posts', array(), '-', 'update');
 
 		}
 
